@@ -12,12 +12,12 @@ Sunday, Monday, Tuesday were hot! Temperatures around 95 degrees.\
 Wednesday, Thursday, and Friday weather was nicer around 85 degrees with some clouds.\
 
 We setup a misting system to help with the heat. We do this every year.\
-The pressure regulator or the nozzles may shoot right out of the line from too much pressure.\
+The pressure regulator prevents the nozzles from shooting out of the line.\
 [Mister nozzles](https://www.amazon.com/dp/B0922PCQSG?ref=ppx_yo2ov_dt_b_product_details&th=1)\
 [Water line Pressure regulator](https://www.homedepot.com/p/Rain-Bird-Drip-25-psi-Pressure-Regulator-for-3-4-in-FHT-x-3-4-in-MHT-HT07525PSX/202262484)\
 [1/4 water line](https://www.homedepot.com/p/Rain-Bird-1-4-in-x-100-ft-Distribution-Tubing-for-Drip-Irrigation-T22-100SX/202078362)\
 [Water outlet splitter](https://www.homedepot.com/p/Morvat-Brass-Garden-Hose-Splitter-Heavy-Duty-2-Way-Hose-Connector-Fitting-MOR-BCONNECTOR-2-A/316286197)\
-[Hose adapter - garden hose to 1/4 inch](https://www.homedepot.com/p/Everbilt-3-4-in-FHT-x-1-4-in-O-D-Compression-Brass-Adapter-Fitting-801789/207176917)\
+[Hose adapter - garden hose to 1/4 inch](https://www.homedepot.com/p/Everbilt-3-4-in-FHT-x-1-4-in-O-D-Compression-Brass-Adapter-Fitting-801789/207176917)
 
 
 ## Awards 
@@ -31,14 +31,18 @@ The pressure regulator or the nozzles may shoot right out of the line from too m
 ## Camp Projects
 
 - Troop 364 built and donated a bat house to the Nature area for woodworking service project.
-- Troop 5364 and Troop 364 built and donated a bench currently located out front of the Medical area. [Bench Plans](https://rogueengineer.com/diy-outdoor-bench-plans-with-back/)
+- Troop 5364 and Troop 364 built and donated a bench currently located out front of the Medical area.
+- Repair work on row boats.
 
 <img src="../images/summer_camp_2024/Birdhouse.jpg" alt="bat house" width="150"/>
 
-<img src="../images/summer_camp_2024/bench_unstained.jpg" alt="bench unstained" width="300"/>
-<img src="../images/summer_camp_2024/bench_stained.jpg" alt="bench unstained" width="300"/>
-  
-<img src="../images/summer_camp_2024/"
+[Bench Plans](https://rogueengineer.com/diy-outdoor-bench-plans-with-back/)\
+<img src="../images/summer_camp_2024/bench_unstained.jpg" alt="bench unstained" width="400"/>
+
+<img src="../images/summer_camp_2024/bench_stained.jpg" alt="bench unstained" width="400"/>
+
+<img src="../images/summer_camp_2024/boat_repair_before.jpg" alt="bench unstained" width="150"/> <img src="../images/summer_camp_2024/boat_repair_after.jpg" alt="bench unstained" width="150"/>
+
 ## Trees/plants Identified
 - White Oak
 - Hickory
@@ -52,6 +56,7 @@ The pressure regulator or the nozzles may shoot right out of the line from too m
 ## Animals
 - deer - fawns and does
 - owl
+- cardinals
 - turtle dove
 - squirrel
 - racoon
@@ -60,12 +65,42 @@ The pressure regulator or the nozzles may shoot right out of the line from too m
 - blue tailed skink
 - mice
 - bass
+
+## Mushrooms
+It was a rather dry this year at camp. Even one of the streams had dried up.
+- lots of white Amanita's probably Amanita cokeri
+- a patch of Jack O'Lantern's (Omphalotus olearius)
+- a few Red Russlias
+- a few Milk Caps
+- one older chicken of the woods (small one)
+- puffballs 
    
 ## Lessons Learned 
 
 - Adding an extra water pressure regulator to a water spigot (without a hose) prevents water from splattering all over the place. (We had a 4 line splitter this year. Thanks Billy.)
+- Do more bench work before we go to summer camp. This year everyone was busy and it was hot.
+- On the bench lettering, the paint bleed through the stencis and stuck when they dried. Using a marker to trace the letters then paint after removing the stencils.
+- The bat house wood could have been thinner. We only need half inch wood.
 - 
 
+## Random
 
+### Bread
+For IOLS Training we made dutch oven no-kneed bread.
 
+- 1 1/2 cups warm water
+- 1 packet yeast
+- 1/2 tablespoon salt
+- 3 1/4 cups flour
+- parchment paper
 
+Mix in a bowl. Place dough ball in a different bowl lined with parchment paper and let rise for 1 to 3 hours depending on temperature outside.\
+When it doubles in size it is ready. \
+Preheat dutch oven to 400 degrees.\
+Place parchment paper and doughball in the oven.\
+Cook for about 30 minutes.
+
+### Yellow Jackets
+Because it was so dry, yellow jackets were attracted to the misters and the water on the ground from the misters.
+
+There was one nest close to the boys camp. That was dug up and removed. 
