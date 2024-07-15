@@ -5,14 +5,14 @@
 - When: 2024-07-07 to 2024-07-13
 - Why: Have fun and enjoy the outdoors, learn new skills, earn meritbadges, get rank/book signoffs, have board of reviews for rank advancement.
 
-# Weather
+## Weather
 
 Rain was often forcasted, but it never came.\
 Sunday, Monday, Tuesday were hot! Temperatures around 95 degrees.\
 Wednesday, Thursday, and Friday weather was nicer around 85 degrees with some clouds.\
 
 We setup a misting system to help with the heat. We do this every year.\
-Don't skip the pressure regulator or the nozzles may shoot right out of the line from too much pressure.\
+The pressure regulator or the nozzles may shoot right out of the line from too much pressure.\
 [Mister nozzles](https://www.amazon.com/dp/B0922PCQSG?ref=ppx_yo2ov_dt_b_product_details&th=1)\
 [Water line Pressure regulator](https://www.homedepot.com/p/Rain-Bird-Drip-25-psi-Pressure-Regulator-for-3-4-in-FHT-x-3-4-in-MHT-HT07525PSX/202262484)\
 [1/4 water line](https://www.homedepot.com/p/Rain-Bird-1-4-in-x-100-ft-Distribution-Tubing-for-Drip-Irrigation-T22-100SX/202078362)\
@@ -20,8 +20,7 @@ Don't skip the pressure regulator or the nozzles may shoot right out of the line
 [Hose adapter - garden hose to 1/4 inch](https://www.homedepot.com/p/Everbilt-3-4-in-FHT-x-1-4-in-O-D-Compression-Brass-Adapter-Fitting-801789/207176917)\
 
 
-
-# Awards 
+## Awards 
 
 - Troop 5364 won Honor Troop for the whole camp.
 - 10? adults earned IOLS (Intruduction to Outdoor Leader Skills)
@@ -29,12 +28,12 @@ Don't skip the pressure regulator or the nozzles may shoot right out of the line
 - 5? Aquatics Certifications
 - ?? mile swim
 
-# Camp Projects
+## Camp Projects
 
 - Troop 364 built and donated a bat house to the Nature area for woodworking service project.
 - Troop 5364 and Troop 364 built and donated a bench currently located out front of the Medical area. [Bench Plans](https://rogueengineer.com/diy-outdoor-bench-plans-with-back/)
 
-# Trees/plants Identified
+## Trees/plants Identified
 - White Oak
 - Hickory
 - PawPaw
@@ -44,7 +43,7 @@ Don't skip the pressure regulator or the nozzles may shoot right out of the line
 - Blackberry
 
   
-# Animals
+## Animals
 - owl
 - turtle dove
 - squirrel
@@ -55,7 +54,7 @@ Don't skip the pressure regulator or the nozzles may shoot right out of the line
 - mice
 - bass
    
-
+## Lessons Learned 
 
 
 
