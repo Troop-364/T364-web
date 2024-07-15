@@ -56,6 +56,7 @@ The pressure regulator prevents the nozzles from shooting out of the line.\
 ## Animals
 - deer - fawns and does
 - owl
+- cardinals
 - turtle dove
 - squirrel
 - racoon
@@ -72,6 +73,7 @@ It was a rather dry this year at camp. Even one of the streams had dried up.
 - a few Red Russlias
 - a few Milk Caps
 - one older chicken of the woods (small one)
+- puffballs 
    
 ## Lessons Learned 
 
