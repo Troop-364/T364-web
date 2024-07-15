@@ -70,5 +70,18 @@ The pressure regulator or the nozzles may shoot right out of the line from too m
 - The bat house wood could have been thinner. We only need half inch wood.
 - 
 
+## Random
+
+For IOLS Training we made dutch oven no-kneed bread.
+
+- 1 1/2 cups warm water
+- 1 packet yeast
+- 1/2 tablespoon salt
+- 3 1/4 cups flour
+- parchment paper
+
+Mix in a bowl. Place dough ball in a different bowl lined with parchment paper and let rise for 1 to 3 hours depending on temperature outside. When it doubles in size it is ready.\
+Preheat dutch oven to 400 degrees\
+Cook for about 30 minutes.
 
 
