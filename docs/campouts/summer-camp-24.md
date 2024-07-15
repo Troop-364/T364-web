@@ -1,12 +1,8 @@
 # Summer Camp 2024
 Who: Troops 5364 and 364
-
 What: Summer Camp 2024 
-
 Where: Camp Shenandoah, Swoop Virginia 
-
 When: 2024-07-07 to 2024-07-13
-
 Why: Have fun and enjoy the outdoors, learn new skills, earn meritbadges, get rank/book signoffs, have board of reviews for rank advancement.
 
 # Weather
