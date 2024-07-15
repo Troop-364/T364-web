@@ -17,7 +17,7 @@ The pressure regulator or the nozzles may shoot right out of the line from too m
 [Water line Pressure regulator](https://www.homedepot.com/p/Rain-Bird-Drip-25-psi-Pressure-Regulator-for-3-4-in-FHT-x-3-4-in-MHT-HT07525PSX/202262484)\
 [1/4 water line](https://www.homedepot.com/p/Rain-Bird-1-4-in-x-100-ft-Distribution-Tubing-for-Drip-Irrigation-T22-100SX/202078362)\
 [Water outlet splitter](https://www.homedepot.com/p/Morvat-Brass-Garden-Hose-Splitter-Heavy-Duty-2-Way-Hose-Connector-Fitting-MOR-BCONNECTOR-2-A/316286197)\
-[Hose adapter - garden hose to 1/4 inch](https://www.homedepot.com/p/Everbilt-3-4-in-FHT-x-1-4-in-O-D-Compression-Brass-Adapter-Fitting-801789/207176917)\
+[Hose adapter - garden hose to 1/4 inch](https://www.homedepot.com/p/Everbilt-3-4-in-FHT-x-1-4-in-O-D-Compression-Brass-Adapter-Fitting-801789/207176917)
 
 
 ## Awards 
