@@ -31,7 +31,8 @@ The pressure regulator prevent the nozzles from shooting out of the line.\
 ## Camp Projects
 
 - Troop 364 built and donated a bat house to the Nature area for woodworking service project.
-- Troop 5364 and Troop 364 built and donated a bench currently located out front of the Medical area.\
+- Troop 5364 and Troop 364 built and donated a bench currently located out front of the Medical area.
+- Repair work on row boats.
 
 <img src="../images/summer_camp_2024/Birdhouse.jpg" alt="bat house" width="150"/>
 
@@ -39,6 +40,8 @@ The pressure regulator prevent the nozzles from shooting out of the line.\
 <img src="../images/summer_camp_2024/bench_unstained.jpg" alt="bench unstained" width="400"/>
 
 <img src="../images/summer_camp_2024/bench_stained.jpg" alt="bench unstained" width="400"/>
+
+<img src="../images/summer_camp_2024/boat_repair_before.jpg" alt="bench unstained" width="150"/> <img src="../images/summer_camp_2024/boat_repair_after.jpg" alt="bench unstained" width="150"/>
 
 ## Trees/plants Identified
 - White Oak
