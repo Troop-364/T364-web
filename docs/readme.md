@@ -2,9 +2,11 @@
 
 
 # Welcome
-Welcome to Troop 364 of Virginia Beach Virginia, located in the Tidewater Council.
+Welcome to Troop 364 and 5364 of Virginia Beach Virginia, located in the Tidewater Council.
 
 Troop 364 was established in 1968 to help young men develop and learn outdoor, leadership, and survival skills that can be used to help scouts succeed in everyday life. We establish skills that may not be learned elsewhere in a boy run boy lead setting.
+
+
 ## Schedule
 We meet every Wednesday at 7:00pm 
 
@@ -42,47 +44,20 @@ Follow us on Facebook to learn more about what we do and learn more about us at 
 
 
 
-
-Scout Oath:  
-
-
-On my honor I will do my best
-
-to do my duty to God and my country
-
-and to obey the Scout Law;
-
-to help other people at all times;
-
-to keep myself physically strong,
-
-mentally awake, and morally straight.
+## Scout Oath:
+On my honor I will do my best\
+to do my duty to God and my countryt\
+and to obey the Scout Law;\
+to help other people at all times;\
+to keep myself physically strong,\
+mentally awake, and morally straight.\
 
 
 
 
-Scout Law: 
+## Scout Law: 
+A Scout is Trustworthy, Loyal, Helpful, Friendly, Courteous, Kind, Obedient, Cheerful, Thrifty, Brave, Clean and Reverent
 
-Trustworthy
+## Quick Links
 
-Loyal
-
-Helpful
-
-Friendly
-
-Courteous
-
-Kind
-
-Obedient
-
-Cheerful 
-
-Thrifty
-
-Brave
-
-Clean
-
-Reverent
+[Download Forms](./forms)
