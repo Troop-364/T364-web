@@ -56,6 +56,8 @@ The pressure regulator or the nozzles may shoot right out of the line from too m
    
 ## Lessons Learned 
 
+- Adding an extra water pressure regulator to a water spigot (without a hose) prevents water from splattering all over the place. (We had a 4 line splitter this year. Thanks Billy.)
+- 
 
 
 
