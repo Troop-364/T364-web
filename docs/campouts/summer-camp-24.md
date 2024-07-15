@@ -12,7 +12,7 @@ Sunday, Monday, Tuesday were hot! Temperatures around 95 degrees.\
 Wednesday, Thursday, and Friday weather was nicer around 85 degrees with some clouds.\
 
 We setup a misting system to help with the heat. We do this every year.\
-The pressure regulator prevent the nozzles from shooting out of the line.\
+The pressure regulator prevents the nozzles from shooting out of the line.\
 [Mister nozzles](https://www.amazon.com/dp/B0922PCQSG?ref=ppx_yo2ov_dt_b_product_details&th=1)\
 [Water line Pressure regulator](https://www.homedepot.com/p/Rain-Bird-Drip-25-psi-Pressure-Regulator-for-3-4-in-FHT-x-3-4-in-MHT-HT07525PSX/202262484)\
 [1/4 water line](https://www.homedepot.com/p/Rain-Bird-1-4-in-x-100-ft-Distribution-Tubing-for-Drip-Irrigation-T22-100SX/202078362)\
@@ -64,6 +64,14 @@ The pressure regulator prevent the nozzles from shooting out of the line.\
 - blue tailed skink
 - mice
 - bass
+
+## Mushrooms
+It was a rather dry this year at camp. Even one of the streams had dried up.
+- lots of white Amanita's probably Amanita cokeri
+- a patch of Jack O'Lantern's (Omphalotus olearius)
+- a few Red Russlias
+- a few Milk Caps
+- one older chicken of the woods (small one)
    
 ## Lessons Learned 
 
