@@ -44,6 +44,7 @@ The pressure regulator or the nozzles may shoot right out of the line from too m
 
   
 ## Animals
+- deer - fawns and does
 - owl
 - turtle dove
 - squirrel
