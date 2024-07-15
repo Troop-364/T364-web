@@ -61,3 +61,5 @@ A Scout is Trustworthy, Loyal, Helpful, Friendly, Courteous, Kind, Obedient, Che
 ## Quick Links
 
 [Download Forms](./forms)
+
+[BSA Medical Part A,B,C](https://www.scouting.org/health-and-safety/ahmr/)
