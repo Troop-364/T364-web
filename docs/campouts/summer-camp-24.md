@@ -85,6 +85,7 @@ It was a rather dry this year at camp. Even one of the streams had dried up.
 
 ## Random
 
+### Bread
 For IOLS Training we made dutch oven no-kneed bread.
 
 - 1 1/2 cups warm water
@@ -99,4 +100,7 @@ Preheat dutch oven to 400 degrees.\
 Place parchment paper and doughball in the oven.\
 Cook for about 30 minutes.
 
+### Yellow Jackets
+Because it was so dry, yellow jackets were attracted to the misters and the water on the ground from the misters.
 
+There was one nest close to the boys camp. That was dug up and removed. 
