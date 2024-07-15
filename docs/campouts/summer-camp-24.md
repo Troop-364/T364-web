@@ -33,6 +33,9 @@ The pressure regulator or the nozzles may shoot right out of the line from too m
 - Troop 364 built and donated a bat house to the Nature area for woodworking service project.
 - Troop 5364 and Troop 364 built and donated a bench currently located out front of the Medical area. [Bench Plans](https://rogueengineer.com/diy-outdoor-bench-plans-with-back/)
 
+<img src="../images/summer_camp_2024/Birdhouse.jpg" alt="bat house" width="150"/>
+  
+<img src="../images/summer_camp_2024/"
 ## Trees/plants Identified
 - White Oak
 - Hickory
