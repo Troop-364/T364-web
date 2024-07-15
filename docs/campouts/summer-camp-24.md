@@ -65,8 +65,9 @@ The pressure regulator or the nozzles may shoot right out of the line from too m
 ## Lessons Learned 
 
 - Adding an extra water pressure regulator to a water spigot (without a hose) prevents water from splattering all over the place. (We had a 4 line splitter this year. Thanks Billy.)
+- Do more bench work before we go to summer camp. This year everyone was busy and it was hot.
+- The bat house wood could have been thinner. We only need half inch wood.
 - 
-
 
 
 
