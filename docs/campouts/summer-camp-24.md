@@ -27,6 +27,7 @@ Don't skip the pressure regulator or the nozzles may shoot right out of the line
 - 10? adults earned IOLS (Intruduction to Outdoor Leader Skills)
 - 125 Meritbadges earned
 - 5? Aquatics Certifications
+- ?? mile swim
 
 # Camp Projects
 
@@ -44,14 +45,16 @@ Don't skip the pressure regulator or the nozzles may shoot right out of the line
 
   
 # Animals
-- owls
-- turtle doves
-- squirrels
-- racoons
+- owl
+- turtle dove
+- squirrel
+- racoon
 - black rat snake
 - timber rattler (rumored)
-- skinks
-- 
+- blue tailed skink
+- mice
+- bass
+   
 
 
 
