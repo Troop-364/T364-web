@@ -12,7 +12,7 @@ We meet every Wednesday at 7:00pm
 
 [Bayside Presbyterian](https://www.baysidepresby.org) 1400 Ewell Rd, Virginia Beach, VA 23455
 
-
+## Past Campouts
 [Winter-Camp](./campouts/winter-camp.md)
 
 [Merchants-Mill-Pond](./campouts/merchants-mill-pond.md)
