@@ -10,9 +10,7 @@ Troop 364 was established in 1968 to help young men develop and learn outdoor, l
 ## Schedule
 We meet every Wednesday at 7:00pm 
 
-Bayside Presbyterian 
-
-1400 Ewell Rd, Virginia Beach, VA 23455
+[Bayside Presbyterian](https://www.baysidepresby.org) 1400 Ewell Rd, Virginia Beach, VA 23455
 
 
 [Winter-Camp](./campouts/winter-camp.md)
@@ -50,8 +48,7 @@ to do my duty to God and my countryt\
 and to obey the Scout Law;\
 to help other people at all times;\
 to keep myself physically strong,\
-mentally awake, and morally straight.\
-
+mentally awake, and morally straight.
 
 
 
