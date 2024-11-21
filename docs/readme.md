@@ -13,27 +13,29 @@ We meet every Wednesday at 7:00pm
 [Bayside Presbyterian](https://www.baysidepresby.org) 1400 Ewell Rd, Virginia Beach, VA 23455
 
 ## Past Campouts
-[Winter-Camp](./campouts/winter-camp.md)
+[Winter-Camp](./campouts/January-Outing.md)
 
-[Merchants-Mill-Pond](./campouts/merchants-mill-pond.md)
+[Merchants-Mill-Pond](./campouts/February-Outing.md)
 
-[Dutch Oven Cookoff](./campouts/dutch-oven-cookoff.md)
+[Dutch Oven Cookoff](./campouts/March-Outing.md)
 
-[Old Rag Hike](./campouts/old-rag.md)
+[Old Rag Hike](./campouts/April-Outing.md)
 
-[Three Ridges Hike](./campouts/three-ridges.md)
+[Three Ridges Hike](./campouts/May-Outing.md)
 
-[Hemeric Outing](./campouts/hemeric-boating-trip.md)
+[Hemeric Outing](./campouts/June-Outing.md)
 
-[Summer Camp 2024 - Camp Shenandoah](./campouts/summer-camp-24.md)
+[Summer Camp 2024 - Camp Shenandoah](./campouts/July-Outing-(Summer-Camp).md)
 
-[Lock-In](./campouts/lock-in.md)
+[Lock-In](./campouts/August-Outing.md)
 
-[Wakefield Shooting](./campouts/wakefield-shooting-outing.md)
+[Caving](./campouts/September-Outing.md)
 
-[Albermarle](./campouts/albermarle-merit-badge-weekend.md)
+[Wakefield Shooting](./campouts/October-Outing.md)
 
-[Honallee](./campouts/honalee.md)
+[Albermarle](./campouts/November-Outing.md)
+
+[Honallee](./campouts/December-Outing.md)
 
 Our key dates can be added to your calendar by adding "baysidetroop364@gmail.com" to your google calendar.
 
