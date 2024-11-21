@@ -13,29 +13,21 @@ We meet every Wednesday at 7:00pm
 [Bayside Presbyterian](https://www.baysidepresby.org) 1400 Ewell Rd, Virginia Beach, VA 23455
 
 ## Past Campouts
-[Winter-Camp](./campouts/January-Outing.md)
 
-[Merchants-Mill-Pond](./campouts/February-Outing.md)
-
-[Dutch Oven Cookoff](./campouts/March-Outing.md)
-
-[Old Rag Hike](./campouts/April-Outing.md)
-
-[Three Ridges Hike](./campouts/May-Outing.md)
-
-[Hemeric Outing](./campouts/June-Outing.md)
-
-[Summer Camp 2024 - Camp Shenandoah](./campouts/July-Outing-(Summer-Camp).md)
-
-[Lock-In](./campouts/August-Outing.md)
-
-[Caving](./campouts/September-Outing.md)
-
-[Wakefield Shooting](./campouts/October-Outing.md)
-
-[Albermarle](./campouts/November-Outing.md)
-
-[Honallee](./campouts/December-Outing.md)
+|Outing   |Dates|
+|------   |-----|
+|[January](./campouts/January-Outing.md)  |11111|
+|[February](./campouts/February-Outing.md) |11111|
+|[March](./campouts/March-Outing.md)|11111|
+|[April](./campouts/April-Outing.md)|11111|
+|[May](./campouts/May-Outing.md)|11111|
+|[June](./campouts/June-Outing.md)|11111|
+|[July](./campouts/July-Outing-(Summer-Camp).md)|11111|
+|[August](./campouts/August-Outing.md)|11111|
+|[September](./campouts/September-Outing.md)|11111|
+|[October](./campouts/October-Outing.md)|11111|
+|[November](./campouts/November-Outing.md)|11111|
+|[December](./campouts/December-Outing.md)|11111|
 
 Our key dates can be added to your calendar by adding "baysidetroop364@gmail.com" to your google calendar.
 
