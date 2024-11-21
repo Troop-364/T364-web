@@ -16,10 +16,10 @@ We meet every Wednesday at 7:00pm
 
 |Outing   |Dates|
 |------   |-----|
-|[January](./campouts/January-Outing.md)  |11111|
-|[February](./campouts/February-Outing.md) |11111|
-|[March](./campouts/March-Outing.md)|11111|
-|[April](./campouts/April-Outing.md)|11111|
+|[January](./campouts/January-Outing.md)  |17-20|
+|[February](./campouts/February-Outing.md) |7-8|
+|[March](./campouts/March-Outing.md)|28-30|
+|[April](./campouts/April-Outing.md)|25-27|
 |[May](./campouts/May-Outing.md)|11111|
 |[June](./campouts/June-Outing.md)|11111|
 |[July](./campouts/July-Outing-(Summer-Camp).md)|11111|
