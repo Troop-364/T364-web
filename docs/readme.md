@@ -19,15 +19,15 @@ We meet every Wednesday at 7:00pm
 |[January](./campouts/January-Outing.md)  |17-20|
 |[February](./campouts/February-Outing.md) |7-8|
 |[March](./campouts/March-Outing.md)|28-30|
-|[April](./campouts/April-Outing.md)|25-27|
-|[May](./campouts/May-Outing.md)|11111|
-|[June](./campouts/June-Outing.md)|11111|
-|[July](./campouts/July-Outing-(Summer-Camp).md)|11111|
-|[August](./campouts/August-Outing.md)|11111|
-|[September](./campouts/September-Outing.md)|11111|
-|[October](./campouts/October-Outing.md)|11111|
-|[November](./campouts/November-Outing.md)|11111|
-|[December](./campouts/December-Outing.md)|11111|
+|[April](./campouts/April-Outing.md)|11|
+|[May](./campouts/May-Outing.md)|9-11|
+|[June](./campouts/June-Outing.md)|19-22|
+|[July](./campouts/July-Outing-(Summer-Camp).md)|6-12|
+|[August](./campouts/August-Outing.md)|8-10|
+|[September](./campouts/September-Outing.md)|19-21|
+|[October](./campouts/October-Outing.md)|10-12|
+|[November](./campouts/November-Outing.md)|7-9|
+|[December](./campouts/December-Outing.md)|5-7|
 
 Our key dates can be added to your calendar by adding "baysidetroop364@gmail.com" to your google calendar.
 
