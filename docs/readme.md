@@ -32,7 +32,8 @@ We meet every Wednesday at 7:00pm
 Our key dates can be added to your calendar by adding "baysidetroop364@gmail.com" to your google calendar.
 
 Follow us on Facebook to learn more about what we do and learn more about us at "https://www.facebook.com/groups/troop364vb/".
-![image](https://github.com/Troop-364/T364-web/assets/147009007/0c154f41-9252-456f-807d-e3625d26d45f)
+![image](https://github.com/user-attachments/assets/5d910256-5c41-41af-9c0a-d784e86b21de)
+
 
 
 
