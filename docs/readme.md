@@ -13,7 +13,7 @@ We meet every Wednesday at 7:00pm
 
 [Bayside Presbyterian](https://www.baysidepresby.org) 1400 Ewell Rd, Virginia Beach, VA 23455
 
-## Past Campouts
+## Past / Future Campouts
 
 |Outing   |Dates|
 |------   |-----|
