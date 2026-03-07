@@ -1,0 +1,175 @@
+/* BSA Scout-themed color palette */
+:root {
+  /* BSA Official Colors */
+  --md-primary-fg-color: #003F87;        /* BSA Navy Blue */
+  --md-primary-fg-color--light: #1565C0;
+  --md-primary-fg-color--dark: #002855;
+  --md-accent-fg-color: #CE1126;         /* BSA Red */
+  --md-accent-fg-color--transparent: rgba(206, 17, 38, 0.1);
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #1565C0;
+  --md-primary-fg-color--light: #42A5F5;
+  --md-primary-fg-color--dark: #003F87;
+  --md-accent-fg-color: #FF6659;
+}
+
+/* Hero section on home page */
+.md-typeset .hero {
+  text-align: center;
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+}
+
+.md-typeset .hero h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--md-primary-fg-color);
+  margin-bottom: 0.5rem;
+}
+
+.md-typeset .hero .subtitle {
+  font-size: 1.2rem;
+  color: #666;
+  margin-bottom: 1.5rem;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .hero .subtitle {
+  color: #aaa;
+}
+
+/* Card grid for features */
+.md-typeset .grid-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.md-typeset .card {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: box-shadow 0.2s, transform 0.2s;
+  background: var(--md-default-bg-color);
+}
+
+.md-typeset .card:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+  transform: translateY(-2px);
+}
+
+.md-typeset .card h3 {
+  margin-top: 0;
+  color: var(--md-primary-fg-color);
+}
+
+.md-typeset .card .card-icon {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+/* Scout Oath & Law styling */
+.md-typeset .scout-values {
+  background: linear-gradient(135deg, #003F87 0%, #1565C0 100%);
+  color: white;
+  padding: 2rem;
+  border-radius: 8px;
+  margin: 2rem 0;
+}
+
+.md-typeset .scout-values h2 {
+  color: #FFD700;
+  border-bottom: 2px solid rgba(255, 215, 0, 0.3);
+  padding-bottom: 0.5rem;
+}
+
+.md-typeset .scout-values p,
+.md-typeset .scout-values li {
+  color: white;
+}
+
+/* Campout report sections */
+.md-typeset .report-meta {
+  background: var(--md-code-bg-color);
+  border-left: 4px solid var(--md-primary-fg-color);
+  padding: 1rem 1.5rem;
+  border-radius: 0 8px 8px 0;
+  margin: 1rem 0;
+}
+
+.md-typeset .report-meta dt {
+  font-weight: 700;
+  color: var(--md-primary-fg-color);
+  display: inline;
+}
+
+.md-typeset .report-meta dd {
+  display: inline;
+  margin-left: 0.25rem;
+}
+
+.md-typeset .report-meta dd::after {
+  content: "";
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+/* Section badges for campout template */
+.md-typeset .section-badge {
+  display: inline-block;
+  padding: 0.15rem 0.6rem;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-left: 0.5rem;
+  vertical-align: middle;
+}
+
+.md-typeset .badge-nature {
+  background: #E8F5E9;
+  color: #2E7D32;
+}
+
+.md-typeset .badge-gear {
+  background: #FFF3E0;
+  color: #E65100;
+}
+
+.md-typeset .badge-food {
+  background: #FCE4EC;
+  color: #C62828;
+}
+
+/* Image gallery */
+.md-typeset .image-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0;
+}
+
+.md-typeset .image-gallery img {
+  border-radius: 6px;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+/* Table styling improvements */
+.md-typeset table:not([class]) th {
+  background: var(--md-primary-fg-color);
+  color: white;
+}
+
+/* Fleur-de-lis divider */
+.md-typeset .divider {
+  text-align: center;
+  margin: 2rem 0;
+  color: var(--md-primary-fg-color);
+  font-size: 1.5rem;
+}
