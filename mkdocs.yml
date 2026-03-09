@@ -12,14 +12,14 @@ theme:
       primary: custom
       accent: custom
       toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
+        icon: material/campfire
+        name: Switch to campfire mode
     - scheme: slate
       primary: custom
       accent: custom
       toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
+        icon: material/white-balance-sunny
+        name: Switch to daylight mode
   font:
     text: Roboto
     code: Roboto Mono

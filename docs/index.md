@@ -67,6 +67,14 @@ Troop 364 is a boy-led troop. Scouts plan the outings, run the meetings, and lea
 
 A Scout is **Trustworthy**, **Loyal**, **Helpful**, **Friendly**, **Courteous**, **Kind**, **Obedient**, **Cheerful**, **Thrifty**, **Brave**, **Clean**, and **Reverent**.
 
+## Outdoor Code
+
+*As an American, I will do my best to —*
+*Be clean in my outdoor manners,*
+*Be careful with fire,*
+*Be considerate in the outdoors,*
+*and Be conservation-minded.*
+
 </div>
 
 ---
