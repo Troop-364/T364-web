@@ -1,0 +1,284 @@
+/* =============================================
+   BSA Uniform Color Palette
+   - Khaki / Tan (shirt & shorts)
+   - Olive / Forest Green (sash, new epaulettes)
+   - Dark Brown (leather, belt)
+   - Old-school Red (classic epaulettes accent)
+   ============================================= */
+
+:root {
+  /* Primary: Forest Green (modern sash / epaulettes) */
+  --md-primary-fg-color: #2E5339;         /* Forest green */
+  --md-primary-fg-color--light: #3E7A50;  /* Lighter green */
+  --md-primary-fg-color--dark: #1B3526;   /* Deep forest */
+
+  /* Accent: Old-school red epaulettes */
+  --md-accent-fg-color: #A63D2F;          /* Vintage BSA red */
+  --md-accent-fg-color--transparent: rgba(166, 61, 47, 0.1);
+
+  /* Uniform tan / khaki tones */
+  --bsa-khaki: #C4A768;
+  --bsa-khaki-light: #DBC896;
+  --bsa-khaki-pale: #F5EDD6;
+  --bsa-brown: #5C3D2E;                   /* Leather / belt brown */
+  --bsa-brown-light: #7D5A4A;
+  --bsa-olive: #4A5D23;                   /* Olive drab */
+  --bsa-red: #A63D2F;                     /* Classic red */
+
+  /* Subtle warm background tint */
+  --md-default-bg-color: #FDFBF5;
+  --md-default-bg-color--light: #F9F5EA;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #3E7A50;
+  --md-primary-fg-color--light: #5AAD6A;
+  --md-primary-fg-color--dark: #2E5339;
+  --md-accent-fg-color: #D4634F;
+  --md-accent-fg-color--transparent: rgba(212, 99, 79, 0.1);
+
+  --bsa-khaki: #C4A768;
+  --bsa-khaki-light: #9E8856;
+  --bsa-khaki-pale: #3A3428;
+  --bsa-brown: #A07B65;
+  --bsa-brown-light: #7D5A4A;
+
+  --md-default-bg-color: #1E1E1E;
+  --md-default-bg-color--light: #2A2A2A;
+}
+
+/* ---- Header bar ---- */
+.md-header {
+  background: linear-gradient(135deg, var(--bsa-brown) 0%, #3D2B1F 100%);
+}
+
+.md-tabs {
+  background: var(--bsa-brown);
+}
+
+/* ---- Navigation sidebar ---- */
+.md-sidebar--primary .md-nav__link--active,
+.md-sidebar--primary .md-nav__link:hover {
+  color: var(--md-primary-fg-color);
+}
+
+/* ---- Hero section on home page ---- */
+.md-typeset .hero {
+  text-align: center;
+  padding: 2.5rem 1rem;
+  margin-bottom: 2rem;
+  background: linear-gradient(180deg, var(--bsa-khaki-pale) 0%, transparent 100%);
+  border-radius: 12px;
+}
+
+.md-typeset .hero h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--bsa-brown);
+  margin-bottom: 0.5rem;
+}
+
+.md-typeset .hero .subtitle {
+  font-size: 1.2rem;
+  color: var(--bsa-brown-light);
+  margin-bottom: 1.5rem;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .hero {
+  background: linear-gradient(180deg, var(--bsa-khaki-pale) 0%, transparent 100%);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .hero h1 {
+  color: var(--bsa-khaki);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .hero .subtitle {
+  color: var(--bsa-khaki-light);
+}
+
+/* ---- Card grid ---- */
+.md-typeset .grid-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.md-typeset .card {
+  border: 1px solid var(--bsa-khaki-light);
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: box-shadow 0.2s, transform 0.2s;
+  background: var(--md-default-bg-color);
+}
+
+.md-typeset .card:hover {
+  box-shadow: 0 4px 16px rgba(92, 61, 46, 0.15);
+  transform: translateY(-2px);
+  border-color: var(--bsa-khaki);
+}
+
+.md-typeset .card h3 {
+  margin-top: 0;
+  color: var(--md-primary-fg-color);
+}
+
+.md-typeset .card .card-icon {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+/* ---- Scout Oath & Law banner ---- */
+.md-typeset .scout-values {
+  background: linear-gradient(135deg, var(--bsa-brown) 0%, #3D2B1F 50%, #2E5339 100%);
+  color: white;
+  padding: 2rem;
+  border-radius: 8px;
+  margin: 2rem 0;
+  border: 2px solid var(--bsa-khaki);
+}
+
+.md-typeset .scout-values h2 {
+  color: var(--bsa-khaki);
+  border-bottom: 2px solid rgba(196, 167, 104, 0.4);
+  padding-bottom: 0.5rem;
+}
+
+.md-typeset .scout-values p,
+.md-typeset .scout-values li {
+  color: #F5EDD6;
+}
+
+/* ---- Campout report metadata block ---- */
+.md-typeset .report-meta {
+  background: var(--bsa-khaki-pale);
+  border-left: 4px solid var(--md-primary-fg-color);
+  padding: 1rem 1.5rem;
+  border-radius: 0 8px 8px 0;
+  margin: 1rem 0;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .report-meta {
+  background: var(--bsa-khaki-pale);
+}
+
+.md-typeset .report-meta dt {
+  font-weight: 700;
+  color: var(--bsa-brown);
+  display: inline;
+}
+
+.md-typeset .report-meta dd {
+  display: inline;
+  margin-left: 0.25rem;
+}
+
+.md-typeset .report-meta dd::after {
+  content: "";
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+/* ---- Section badges ---- */
+.md-typeset .section-badge {
+  display: inline-block;
+  padding: 0.15rem 0.6rem;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-left: 0.5rem;
+  vertical-align: middle;
+}
+
+.md-typeset .badge-nature {
+  background: #E8F0E2;
+  color: #2E5339;
+}
+
+.md-typeset .badge-gear {
+  background: #F5EDD6;
+  color: #5C3D2E;
+}
+
+.md-typeset .badge-food {
+  background: #F5E0DC;
+  color: #A63D2F;
+}
+
+/* ---- Image gallery ---- */
+.md-typeset .image-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0;
+}
+
+.md-typeset .image-gallery img {
+  border-radius: 6px;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border: 2px solid var(--bsa-khaki-light);
+}
+
+/* ---- Table styling ---- */
+.md-typeset table:not([class]) th {
+  background: var(--bsa-brown);
+  color: #F5EDD6;
+}
+
+.md-typeset table:not([class]) tr:nth-child(even) {
+  background: var(--bsa-khaki-pale);
+}
+
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) tr:nth-child(even) {
+  background: rgba(196, 167, 104, 0.08);
+}
+
+/* ---- Admonition (tip/info boxes) custom colors ---- */
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+  border-color: var(--md-primary-fg-color);
+}
+
+.md-typeset .tip > .admonition-title,
+.md-typeset .tip > summary {
+  background-color: rgba(46, 83, 57, 0.1);
+}
+
+.md-typeset .admonition.warning,
+.md-typeset details.warning {
+  border-color: var(--bsa-red);
+}
+
+/* ---- Footer ---- */
+.md-footer {
+  background: var(--bsa-brown);
+}
+
+/* ---- Fleur-de-lis divider ---- */
+.md-typeset .divider {
+  text-align: center;
+  margin: 2rem 0;
+  color: var(--bsa-khaki);
+  font-size: 1.5rem;
+}
+
+/* ---- Buttons ---- */
+.md-typeset .md-button--primary {
+  background-color: var(--md-primary-fg-color);
+  border-color: var(--md-primary-fg-color);
+}
+
+.md-typeset .md-button--primary:hover {
+  background-color: var(--md-primary-fg-color--dark);
+  border-color: var(--md-primary-fg-color--dark);
+}
+
+/* ---- Horizontal rules with warmth ---- */
+.md-typeset hr {
+  border-color: var(--bsa-khaki-light);
+}

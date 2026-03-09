@@ -1,0 +1,93 @@
+site_name: BSA Troop 364 & 5364
+site_description: Boy Scouts of America Troop 364 & 5364 — Virginia Beach, VA
+site_url: https://troop-364.github.io/T364-web/
+repo_url: https://github.com/Troop-364/T364-web
+repo_name: Troop-364/T364-web
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/campfire
+        name: Switch to campfire mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/white-balance-sunny
+        name: Switch to daylight mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: material/pine-tree
+    repo: fontawesome/brands/github
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.integrate
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - About:
+    - Our Troop: about.md
+    - Schedule: schedule.md
+  - Campouts:
+    - campouts/index.md
+    - "2025-2026":
+      - January: campouts/January-Outing.md
+      - February: campouts/February-Outing.md
+      - March: campouts/March-Outing.md
+      - April: campouts/April-Outing.md
+      - May: campouts/May-Outing.md
+      - June: campouts/June-Campout.md
+      - July (Summer Camp): campouts/July-Outing-(Summer-Camp).md
+      - August: campouts/August-Outing.md
+      - September: campouts/September-Outing.md
+      - October: campouts/October-Outing.md
+      - November: campouts/November-Outing.md
+      - December: campouts/December-Outing.md
+  - Resources:
+    - resources/index.md
+    - Campout Report Template: campouts/TEMPLATE.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/groups/troop364vb/
+      name: Troop 364 on Facebook
+    - icon: fontawesome/brands/github
+      link: https://github.com/Troop-364
+      name: Troop 364 on GitHub
+
+copyright: "&copy; BSA Troop 364 & 5364 — Virginia Beach, VA"

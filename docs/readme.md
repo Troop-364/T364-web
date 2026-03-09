@@ -23,7 +23,7 @@ We meet every Wednesday at 7:00pm
 |[March](./campouts/March-Outing.md)|28-30|
 |[April](./campouts/April-Outing.md)|11|
 |[May](./campouts/May-Outing.md)|9-11|
-|[June](./campouts/June-Outing.md)|19-22|
+|[June](./campouts/June-Campout.md)|19-22|
 |[July](./campouts/July-Outing-(Summer-Camp).md)|6-12|
 |[August](./campouts/August-Outing.md)|8-10|
 |[September](./campouts/September-Outing.md)|19-21|
