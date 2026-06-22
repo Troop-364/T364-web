@@ -9,7 +9,7 @@ Welcome to our campout reports! After each outing, scouts record what they exper
 
 ## Troop 364 Schedule
 
-Our boys' troop goes on a campout or outing **every month of the year**. Below is our schedule for the current program year. Click any outing to read the full report!
+Our boys' troop goes on a campout or outing **every month of the year**. Click any outing to read the full report! The camping schedule is hosted on [Scoutbook Plus](https://advancements.scouting.org/calendar)
 
 ### 2026 Outings
 

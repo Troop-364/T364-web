@@ -23,6 +23,8 @@ hide:
 
 ### Monthly Campouts
 
+[Campout Reports](campouts/index.md)
+
 We camp every month — from mountain hikes and canoeing trips to winter survival weekends. Check out our [campout reports](campouts/index.md) to see both troop schedules and reports.
 </div>
 
