@@ -19,4 +19,4 @@ We go on our annual trip to Honalee Scout Reserve in December. On this campout w
 ---
 
 !!! tip "Scouts — Help Fill This Out!"
-    This report needs more detail! If you were on this campout, add weather, wildlife, gear, and lessons learned using the [Campout Report Template](TEMPLATE.md).
+    This report needs more detail! If you were on this campout, add weather, wildlife, gear, and lessons learned using the [Campout Report Template](../TEMPLATE.md).

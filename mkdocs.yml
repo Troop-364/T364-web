@@ -88,6 +88,7 @@ nav:
     - resources/index.md
     - Campout Report Template: campouts/TEMPLATE.md
     - Service Project Template: service-projects/TEMPLATE.md
+  - Readme: readme.md
 
 extra:
   social:

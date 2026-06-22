@@ -56,4 +56,4 @@ We had a great time at Camp Brady Saunders winter camp! We completed merit badge
 ---
 
 !!! tip "Scouts — Help Fill This Out!"
-    This report needs more detail! If you were on this campout, copy the [Campout Report Template](TEMPLATE.md) sections and add your observations.
+    This report needs more detail! If you were on this campout, copy the [Campout Report Template](../TEMPLATE.md) sections and add your observations.

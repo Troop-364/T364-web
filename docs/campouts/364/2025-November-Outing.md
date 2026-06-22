@@ -23,4 +23,4 @@ In November we go to the Coast Guard base for our annual merit badge weekend. We
 ---
 
 !!! tip "Scouts — Help Fill This Out!"
-    This report needs more detail! If you were on this outing, add your observations using the [Campout Report Template](TEMPLATE.md).
+    This report needs more detail! If you were on this outing, add your observations using the [Campout Report Template](../TEMPLATE.md).

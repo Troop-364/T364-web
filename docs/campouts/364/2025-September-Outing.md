@@ -20,4 +20,4 @@
 ---
 
 !!! tip "Scouts - Help Fill This Out!"
-    Once this campout happens, use the [Campout Report Template](TEMPLATE.md) to document your experience.
+    Once this campout happens, use the [Campout Report Template](../TEMPLATE.md) to document your experience.

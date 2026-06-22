@@ -19,4 +19,4 @@ For our August lock-in we go to a local rock climbing center. We have fun all ni
 ---
 
 !!! tip "Scouts — Help Fill This Out!"
-    This report needs more detail! If you were on this outing, add your observations using the [Campout Report Template](TEMPLATE.md).
+    This report needs more detail! If you were on this outing, add your observations using the [Campout Report Template](../TEMPLATE.md).

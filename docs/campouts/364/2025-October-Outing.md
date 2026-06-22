@@ -26,4 +26,4 @@ For our annual October outing we go to Wakefield to learn how to shoot safely. W
 ---
 
 !!! tip "Scouts — Help Fill This Out!"
-    This report needs more detail! If you were on this campout, add weather, wildlife, gear, and lessons learned using the [Campout Report Template](TEMPLATE.md).
+    This report needs more detail! If you were on this campout, add weather, wildlife, gear, and lessons learned using the [Campout Report Template](../TEMPLATE.md).

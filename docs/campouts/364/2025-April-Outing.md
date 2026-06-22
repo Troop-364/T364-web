@@ -84,4 +84,4 @@ This page is ready to be filled in after the outing.
 ---
 
 !!! tip "Scouts - Help Fill This Out!"
-    Add your observations using the [Campout Report Template](TEMPLATE.md).
+    Add your observations using the [Campout Report Template](../TEMPLATE.md).
