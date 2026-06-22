@@ -38,7 +38,7 @@ Output goes to the `site/` folder.
 
 ## Adding a New Campout Report
 
-1. Copy `docs/campouts/364/TEMPLATE.md` to a new file (e.g., `docs/campouts/364/2026-March-Outing.md`)
+1. Copy `docs/campouts/TEMPLATE.md` to a new file (e.g., `docs/campouts/364/2026-March-Outing.md`)
 2. Fill in the sections with your observations
 3. Add the new page to `mkdocs.yml` under the `nav:` > `Campouts:` > `Troop 364:` section
 4. **Privacy:** Use first names, nicknames, or patrol names only — no last names!
@@ -49,7 +49,6 @@ Output goes to the `site/` folder.
 docs/
 ├── index.md              # Home page
 ├── about.md              # About the troop
-├── schedule.md           # Campout schedule
 ├── campouts/
 │   ├── index.md          # Campout landing page
 │   ├── 364/

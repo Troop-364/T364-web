@@ -102,10 +102,10 @@ Stay connected with Troop 364!
 
 ### Quick Links
 
-- [Campout Schedule](schedule.md)
+- [Campout Reports](campouts/index.md)
 - [Forms & Resources](resources/index.md)
 - [BSA Medical Forms](https://www.scouting.org/health-and-safety/ahmr/)
-- [Troop 364 Campout Report Template](campouts/364/TEMPLATE.md)
+- [Campout Report Template](campouts/TEMPLATE.md)
 
 </div>
 

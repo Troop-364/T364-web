@@ -61,12 +61,12 @@ nav:
   - Home: index.md
   - About:
     - Our Troop: about.md
-    - Schedule: schedule.md
+    - Campouts: campouts/index.md
   - Campouts:
     - campouts/index.md
+    - Campout Submission Instructions: campouts/instructions.md
     - Troop 364:
       - campouts/364/index.md
-      - Schedule: campouts/364/schedule.md
       - "2025-2026":
         - January: campouts/364/2025-January-Outing.md
         - February: campouts/364/2026-February-Outing.md
@@ -82,12 +82,11 @@ nav:
         - December: campouts/364/2025-December-Outing.md
     - Troop 5364:
       - campouts/5364/index.md
-      - Schedule: campouts/5364/schedule.md
   - Service Projects:
     - service-projects/index.md
   - Resources:
     - resources/index.md
-    - Campout Report Template: campouts/364/TEMPLATE.md
+    - Campout Report Template: campouts/TEMPLATE.md
     - Service Project Template: service-projects/TEMPLATE.md
 
 extra:

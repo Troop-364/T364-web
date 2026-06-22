@@ -13,9 +13,10 @@ All scouts and adults need current medical forms to participate in outings.
 
 ## For Scouts
 
-- [Troop 364 Campout Report Template](../campouts/364/TEMPLATE.md) — Copy this template when writing up a new Troop 364 campout report
+- [Campout Report Template](../campouts/TEMPLATE.md) — Copy this template when writing up a new campout report
 - [Troop 364 Campout Reports](../campouts/364/index.md) — Read past Troop 364 campout reports
 - [Troop 5364 Campout Reports](../campouts/5364/index.md) — Troop 5364 campout reports will live here
+- [Campout Submission Instructions](../campouts/instructions.md) — GitHub and AI-friendly submission help
 
 ## Useful Links
 

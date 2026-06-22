@@ -1,55 +1,16 @@
-# Troop 5364 Campout Report Template
+# Campout Report Template
 
 !!! info "How to Use This Template"
     1. Copy this file and rename it for your campout (e.g., `2026-March-Outing.md`)
     2. Fill in each section with your observations
-    3. **Privacy**: Use first names, nicknames, or patrol names only - no last names!
+    3. **Privacy**: Use first names, nicknames, or patrol names only — no last names!
     4. Have fun documenting your adventure! 🏕️
 
 ## How to Submit Your Report
 
-There are **two ways** to get your campout report added to the website:
+See the [Campout Submission Instructions](instructions.md) for the short version, GitHub steps, and AI-friendly help.
 
-### Option A: GitHub Pull Request (Recommended)
-
-This is how real developers contribute to projects! Follow these steps:
-
-??? note "Step 1 — Create a GitHub Account"
-    1. Go to [github.com](https://github.com) and click **Sign up**
-    2. Use your personal email (not a school email)
-    3. Pick a username — this is public, so don't use your full name if you prefer privacy
-    4. Verify your email address
-
-??? note "Step 2 — Fork the Repository"
-    1. Go to our repo: [github.com/Troop-364/T364-web](https://github.com/Troop-364/T364-web)
-    2. Click the **Fork** button in the top-right corner
-    3. This creates your own copy of the website code under your GitHub account
-
-??? note "Step 3 — Create Your Report File"
-    1. In your forked repo, navigate to the `docs/campouts/5364/` folder
-    2. Click **Add file** → **Create new file**
-    3. Name your file (e.g., `2026-March-Outing.md`)
-    4. Copy the template content below into the file
-    5. Fill in your observations
-    6. Scroll down and click **Commit new file**
-
-??? note "Step 4 — Submit a Pull Request"
-    1. Go back to your forked repo's main page
-    2. You should see a banner saying "This branch is 1 commit ahead" — click **Contribute** → **Open pull request**
-    3. Add a title like "Add March 2026 Campout Report"
-    4. Add a short description of what you wrote
-    5. Click **Create pull request**
-    6. The webmaster will review it and merge it into the live site!
-
-### Option B: Post on Slack
-
-If you're not comfortable with GitHub yet, that's totally fine:
-
-1. Download this template file (or copy the content below)
-2. Fill it out in any text editor (Notepad, VS Code, etc.)
-3. Save it as a `.md` file (e.g., `2026-March-Outing.md`)
-4. Post the file in the troop's **Slack channel**
-5. The webmaster will add it to the website for you
+If you already know what you're doing, just copy this template, fill it in, and send it in.
 
 ---
 
@@ -60,12 +21,14 @@ If you're not comfortable with GitHub yet, that's totally fine:
 
 ## Report Template — Copy & Paste This
 
+Select all the text in the box below, copy it, and paste it into your new `.md` file.
+
 ````markdown
 # [Month] Outing — [Name of Campout]
 
 ## Trip Details
 
-- **Who:** Troop 5364
+- **Who:** Troop 364, Troop 5364
 - **What:** [Brief description of the outing]
 - **Where:** [Location name and general area]
 - **When:** [Start date] to [End date]
@@ -122,13 +85,35 @@ If you're not comfortable with GitHub yet, that's totally fine:
 
 *What meals did you cook? Any recipes worth sharing?*
 
-| Meal | What We Made | Who Cooked (first name/patrol) |
-|------|-------------|-------------------------------|
-| Friday Dinner | | |
-| Saturday Breakfast | | |
-| Saturday Lunch | | |
-| Saturday Dinner | | |
-| Sunday Breakfast | | |
+### Friday Dinner
+
+- What we made:
+- Who cooked:
+- Notes:
+
+### Saturday Breakfast
+
+- What we made:
+- Who cooked:
+- Notes:
+
+### Saturday Lunch
+
+- What we made:
+- Who cooked:
+- Notes:
+
+### Saturday Dinner
+
+- What we made:
+- Who cooked:
+- Notes:
+
+### Sunday Breakfast
+
+- What we made:
+- Who cooked:
+- Notes:
 
 ---
 
@@ -145,7 +130,7 @@ If you're not comfortable with GitHub yet, that's totally fine:
 
 ---
 
-## Lessons Learned
+## Lessons Learned - Start-Stop-Continue
 
 *Tips, tricks, and things to remember for next time.*
 
