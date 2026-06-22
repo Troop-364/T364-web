@@ -18,20 +18,20 @@ We meet every Wednesday at 7:00pm
 
 |Outing   |Dates|
 |------   |-----|
-|[January](./campouts/January-Outing.md)  |17-20|
-|[February](./campouts/February-Outing.md) |7-8|
-|[March](./campouts/March-Outing.md)|28-30|
-|[April](./campouts/April-Outing.md)|11|
-|[May](./campouts/May-Outing.md)|9-11|
-|[June](./campouts/June-Campout.md)|19-22|
-|[July](./campouts/July-Outing-(Summer-Camp).md)|6-12|
-|[August](./campouts/August-Outing.md)|8-10|
-|[September](./campouts/September-Outing.md)|19-21|
-|[October](./campouts/October-Outing.md)|10-12|
-|[November](./campouts/November-Outing.md)|7-9|
-|[December](./campouts/December-Outing.md)|5-7|
+|[January](./campouts/364/2025-January-Outing.md)  |17-20|
+|[February](./campouts/364/2026-February-Outing.md) |27-28|
+|[March](./campouts/364/2026-March-Outing.md)|13-15|
+|[April](./campouts/364/2025-April-Outing.md)|17-19|
+|[May](./campouts/364/2025-May-Outing.md)|15-17|
+|[June](./campouts/364/2025-June-Campout.md)|18-21|
+|[July](./campouts/364/2025-July-Outing-(Summer-Camp).md)|6-12|
+|[August](./campouts/364/2025-August-Outing.md)|8-10|
+|[September](./campouts/364/2025-September-Outing.md)|19-21|
+|[October](./campouts/364/2025-October-Outing.md)|10-12|
+|[November](./campouts/364/2025-November-Outing.md)|7-9|
+|[December](./campouts/364/2025-December-Outing.md)|5-7|
 
-Our key dates can be added to your calendar by adding "baysidetroop364@gmail.com" to your google calendar.
+Our key dates are managed in [Scoutbook Plus](https://advancements.scouting.org/calendar).
 
 Follow us on Facebook to learn more about what we do and learn more about us at "https://www.facebook.com/groups/troop364vb/".
 ![image](https://github.com/user-attachments/assets/5d910256-5c41-41af-9c0a-d784e86b21de)

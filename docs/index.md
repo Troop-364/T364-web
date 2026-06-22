@@ -10,6 +10,10 @@ hide:
 <p class="subtitle">Virginia Beach, Virginia — Tidewater Council<br>
 <em>Building leaders through outdoor adventure since 1968</em></p>
 
+<p class="subtitle"><strong>Boys Troop 364</strong>
+<br/>
+ <strong>Girls Troop 5364</strong></p>
+
 </div>
 
 <div class="grid-cards" markdown>
@@ -19,7 +23,7 @@ hide:
 
 ### Monthly Campouts
 
-We camp every month — from mountain hikes and canoeing trips to winter survival weekends. Check out our [campout reports](campouts/index.md) to see what we've been up to!
+We camp every month — from mountain hikes and canoeing trips to winter survival weekends. Check out our [campout reports](campouts/index.md) to see both troop schedules and reports.
 </div>
 
 <div class="card" markdown>
@@ -43,9 +47,9 @@ Hiking, camping, fire-building, cooking, knot-tying, navigation, conservation, a
 <div class="card" markdown>
 <span class="card-icon">🦅</span>
 
-### Boy-Led, Boy-Run
+### Scout Led, Scout-Run
 
-Troop 364 is a boy-led troop. Scouts plan the outings, run the meetings, and lead each other. Adults are here to mentor and support.
+Troops 364 and 5364 are scout-led. Scouts plan the outings, run the meetings, and lead each other. Adults are here to mentor and support.
 </div>
 
 </div>
@@ -89,7 +93,7 @@ A Scout is **Trustworthy**, **Loyal**, **Helpful**, **Friendly**, **Courteous**,
 Stay connected with Troop 364!
 
 - :fontawesome-brands-facebook: [Facebook Group](https://www.facebook.com/groups/troop364vb/)
-- :material-calendar: Add **baysidetroop364@gmail.com** to your Google Calendar for key dates
+- :material-calendar: View our calendar in [Scoutbook Plus](https://advancements.scouting.org/calendar)
 
 </div>
 
@@ -101,7 +105,7 @@ Stay connected with Troop 364!
 - [Campout Schedule](schedule.md)
 - [Forms & Resources](resources/index.md)
 - [BSA Medical Forms](https://www.scouting.org/health-and-safety/ahmr/)
-- [Campout Report Template](campouts/TEMPLATE.md)
+- [Troop 364 Campout Report Template](campouts/364/TEMPLATE.md)
 
 </div>
 

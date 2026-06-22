@@ -1,9 +1,9 @@
-# Campout Report Template
+# Troop 5364 Campout Report Template
 
 !!! info "How to Use This Template"
-    1. Copy this file and rename it for your campout (e.g., `March-2026-Outing.md`)
+    1. Copy this file and rename it for your campout (e.g., `2026-March-Outing.md`)
     2. Fill in each section with your observations
-    3. **Privacy**: Use first names, nicknames, or patrol names only — no last names!
+    3. **Privacy**: Use first names, nicknames, or patrol names only - no last names!
     4. Have fun documenting your adventure! 🏕️
 
 ## How to Submit Your Report
@@ -26,9 +26,9 @@ This is how real developers contribute to projects! Follow these steps:
     3. This creates your own copy of the website code under your GitHub account
 
 ??? note "Step 3 — Create Your Report File"
-    1. In your forked repo, navigate to the `docs/campouts/` folder
+    1. In your forked repo, navigate to the `docs/campouts/5364/` folder
     2. Click **Add file** → **Create new file**
-    3. Name your file (e.g., `March-2026-Outing.md`)
+    3. Name your file (e.g., `2026-March-Outing.md`)
     4. Copy the template content below into the file
     5. Fill in your observations
     6. Scroll down and click **Commit new file**
@@ -47,7 +47,7 @@ If you're not comfortable with GitHub yet, that's totally fine:
 
 1. Download this template file (or copy the content below)
 2. Fill it out in any text editor (Notepad, VS Code, etc.)
-3. Save it as a `.md` file (e.g., `March-2026-Outing.md`)
+3. Save it as a `.md` file (e.g., `2026-March-Outing.md`)
 4. Post the file in the troop's **Slack channel**
 5. The webmaster will add it to the website for you
 
@@ -60,14 +60,12 @@ If you're not comfortable with GitHub yet, that's totally fine:
 
 ## Report Template — Copy & Paste This
 
-Select all the text in the box below, copy it, and paste it into your new `.md` file.
-
 ````markdown
 # [Month] Outing — [Name of Campout]
 
 ## Trip Details
 
-- **Who:** Troop 364, Troop 5364
+- **Who:** Troop 5364
 - **What:** [Brief description of the outing]
 - **Where:** [Location name and general area]
 - **When:** [Start date] to [End date]

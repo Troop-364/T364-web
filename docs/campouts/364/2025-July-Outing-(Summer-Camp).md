@@ -60,19 +60,19 @@ Troop 364 and 5364 completed several service projects for Camp Shenandoah:
 
 <div class="image-gallery" markdown>
 
-![Bat house](../images/summer_camp_2024/Birdhouse.jpg){ width="200" }
+![Bat house](../../images/summer_camp_2024/Birdhouse.jpg){ width="200" }
 
-![Bench unstained](../images/summer_camp_2024/bench_unstained.jpg){ width="350" }
+![Bench unstained](../../images/summer_camp_2024/bench_unstained.jpg){ width="350" }
 
-![Bench stained](../images/summer_camp_2024/bench_stained.jpg){ width="350" }
+![Bench stained](../../images/summer_camp_2024/bench_stained.jpg){ width="350" }
 
 </div>
 
 <div class="image-gallery" markdown>
 
-![Boat repair before](../images/summer_camp_2024/boat_repair_before.jpg){ width="200" }
+![Boat repair before](../../images/summer_camp_2024/boat_repair_before.jpg){ width="200" }
 
-![Boat repair after](../images/summer_camp_2024/boat_repair_after.jpg){ width="200" }
+![Boat repair after](../../images/summer_camp_2024/boat_repair_after.jpg){ width="200" }
 
 </div>
 
@@ -176,16 +176,16 @@ A great recipe the adults made during their IOLS training:
 
 <div class="image-gallery" markdown>
 
-![Campfire](../images/summer_camp_2024/campfire.jpg){ width="300" }
+![Campfire](../../images/summer_camp_2024/campfire.jpg){ width="300" }
 
-![Flags](../images/summer_camp_2024/flags.jpg){ width="300" }
+![Flags](../../images/summer_camp_2024/flags.jpg){ width="300" }
 
-![Group photo](../images/summer_camp_2024/group_T364.jpg){ width="300" }
+![Group photo](../../images/summer_camp_2024/group_T364.jpg){ width="300" }
 
-![Paddle board](../images/summer_camp_2024/paddle_board.jpg){ width="300" }
+![Paddle board](../../images/summer_camp_2024/paddle_board.jpg){ width="300" }
 
-![Camp chef](../images/summer_camp_2024/thursday_night_camp_chef.jpg){ width="300" }
+![Camp chef](../../images/summer_camp_2024/thursday_night_camp_chef.jpg){ width="300" }
 
-![Deer](../images/summer_camp_2024/deer.jpg){ width="300" }
+![Deer](../../images/summer_camp_2024/deer.jpg){ width="300" }
 
 </div>

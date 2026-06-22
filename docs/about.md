@@ -34,7 +34,7 @@ Our troop stays active year-round with monthly campouts and weekly meetings. Her
 ## Connect With Us
 
 - :fontawesome-brands-facebook: [Troop 364 Facebook Group](https://www.facebook.com/groups/troop364vb/)
-- :material-calendar: Add **baysidetroop364@gmail.com** to your Google Calendar
+- :material-calendar: View our calendar in [Scoutbook Plus](https://advancements.scouting.org/calendar)
 - :material-email: Contact us through our Facebook page
 
 ## Troop 5364

@@ -13,8 +13,9 @@ All scouts and adults need current medical forms to participate in outings.
 
 ## For Scouts
 
-- [Campout Report Template](../campouts/TEMPLATE.md) — Copy this template when writing up a new campout report
-- [Campout Reports](../campouts/index.md) — Read past campout reports
+- [Troop 364 Campout Report Template](../campouts/364/TEMPLATE.md) — Copy this template when writing up a new Troop 364 campout report
+- [Troop 364 Campout Reports](../campouts/364/index.md) — Read past Troop 364 campout reports
+- [Troop 5364 Campout Reports](../campouts/5364/index.md) — Troop 5364 campout reports will live here
 
 ## Useful Links
 
@@ -28,4 +29,4 @@ All scouts and adults need current medical forms to participate in outings.
 
 ## Calendar
 
-Add **baysidetroop364@gmail.com** to your Google Calendar to see all troop events and key dates.
+View troop events and key dates in [Scoutbook Plus](https://advancements.scouting.org/calendar).
