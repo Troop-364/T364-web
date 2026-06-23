@@ -21,8 +21,8 @@ We meet every Wednesday at 7:00pm
 |[January](./campouts/364/2025-January-Outing.md)  |17-20|
 |[February](./campouts/364/2026-February-Outing.md) |27-28|
 |[March](./campouts/364/2026-March-Outing.md)|13-15|
-|[April](./campouts/364/2025-April-Outing.md)|17-19|
-|[May](./campouts/364/2025-May-Outing.md)|15-17|
+|[April](./campouts/364/2026-April-Outing.md)|17-19|
+|[May](./campouts/364/2026-May-Outing.md)|15-17|
 |[June](./campouts/364/2025-June-Campout.md)|18-21|
 |[July](./campouts/364/2025-July-Outing-(Summer-Camp).md)|6-12|
 |[August](./campouts/364/2025-August-Outing.md)|8-10|

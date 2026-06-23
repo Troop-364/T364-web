@@ -64,6 +64,7 @@ nav:
     - Campouts: campouts/index.md
   - Campouts:
     - campouts/index.md
+    - Campout Report Template: campouts/TEMPLATE.md
     - Campout Submission Instructions: campouts/instructions.md
     - Troop 364:
       - campouts/364/index.md
@@ -71,8 +72,8 @@ nav:
         - January: campouts/364/2025-January-Outing.md
         - February: campouts/364/2026-February-Outing.md
         - March: campouts/364/2026-March-Outing.md
-        - April: campouts/364/2025-April-Outing.md
-        - May: campouts/364/2025-May-Outing.md
+        - April: campouts/364/2026-April-Outing.md
+        - May: campouts/364/2026-May-Outing.md
         - June: campouts/364/2025-June-Campout.md
         - July (Summer Camp): campouts/364/2025-July-Outing-(Summer-Camp).md
         - August: campouts/364/2025-August-Outing.md
@@ -86,7 +87,6 @@ nav:
     - service-projects/index.md
   - Resources:
     - resources/index.md
-    - Campout Report Template: campouts/TEMPLATE.md
     - Service Project Template: service-projects/TEMPLATE.md
   - Readme: readme.md
 

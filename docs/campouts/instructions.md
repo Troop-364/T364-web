@@ -15,6 +15,8 @@ Recommended if you are comfortable editing files directly.
 
 You can use your favorite AI assistant to draft the report before you post it.
 
+If a scout fills out the template, they can submit the finished report to the Scoutmaster.
+
 1. Copy the campout template into your editor or AI tool
 2. Ask the AI to fill in the sections using your notes, photos, and dates
 3. Review the draft carefully

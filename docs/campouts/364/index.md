@@ -18,9 +18,9 @@ Our boys' troop goes on a campout or outing **every month of the year**. Click a
 | January |  |  |  |
 | February | Dogwood Klondike Derby | 27–28 | [View Report](2026-February-Outing.md) |
 | March | Zip Lining | 13–15 | [View Report](2026-March-Outing.md) |
-| April | Scout Skills Camping | 17–19 | [View Report](2025-April-Outing.md) |
-| May | Old Rag Hike | 15–17 | [View Report](2025-May-Outing.md) |
-| June | Hemric Island Scout Camp | 18–21 | [View Report](2025-June-Campout.md) |
+| April | Scout Skills Camping | 17–19 | [View Report](2026-April-Outing.md) |
+| May | Old Rag Hike | 15–17 | [View Report](2026-May-Outing.md) |
+| June | Hemric Island Scout Camp | 18–21 | [View Report](2026-June-Hemric.md) |
 | July |  |  |  |
 | August |  |  |  |
 | September |  |  |  |
