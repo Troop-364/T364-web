@@ -78,6 +78,7 @@ Troops 364 and 5364 are scout-led. Scouts plan the outings, run the meetings, an
 ### Quick Links
 
 - [Campout Reports](campouts/index.md)
+- [Camping Beads](camping-beads/index.md)
 - [Forms & Resources](resources/index.md)
 - [BSA Medical Forms](https://www.scouting.org/health-and-safety/ahmr/)
 - [Campout Report Template](campouts/TEMPLATE.md)
