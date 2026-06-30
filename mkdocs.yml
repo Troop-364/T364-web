@@ -85,6 +85,8 @@ nav:
       - campouts/5364/index.md
   - Service Projects:
     - service-projects/index.md
+  - Merit Badges:
+    - Pizza Oven Merit Badge: pizza-oven-merit-badge/index.md
   - Resources:
     - resources/index.md
     - Service Project Template: service-projects/TEMPLATE.md

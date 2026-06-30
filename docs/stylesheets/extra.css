@@ -282,3 +282,260 @@
 .md-typeset hr {
   border-color: var(--bsa-khaki-light);
 }
+
+/* ---- Merit badge page ---- */
+.md-typeset .merit-badge-page {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.md-typeset .merit-badge-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(240px, 0.8fr);
+  gap: 1.5rem;
+  align-items: center;
+  border: 1px solid var(--bsa-khaki-light);
+  border-radius: 12px;
+  padding: 2rem;
+  background: linear-gradient(180deg, var(--bsa-khaki-pale) 0%, rgba(255, 255, 255, 0) 100%);
+  margin-bottom: 1.5rem;
+}
+
+.md-typeset .merit-badge-hero > .merit-badge-image-wrap {
+  order: -1;
+}
+
+.md-typeset .merit-badge-hero-copy h2 {
+  margin-top: 0;
+}
+
+.md-typeset .merit-badge-kicker {
+  margin: 0 0 0.5rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--md-primary-fg-color);
+}
+
+.md-typeset .merit-badge-hero h2 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  color: var(--bsa-brown);
+  font-size: 2rem;
+}
+
+.md-typeset .merit-badge-facts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.md-typeset .merit-badge-image-wrap {
+  margin: 0;
+  text-align: right;
+}
+
+.md-typeset .merit-badge-image {
+  display: inline-block;
+  max-width: min(100%, 336px);
+  width: 100%;
+  height: auto;
+  border-radius: 14px;
+  border: 1px solid var(--bsa-khaki-light);
+  box-shadow: 0 6px 18px rgba(92, 61, 46, 0.12);
+  background: var(--md-default-bg-color);
+}
+
+.md-typeset .merit-badge-facts > div {
+  padding: 1rem;
+  border: 1px solid var(--bsa-khaki-light);
+  border-radius: 10px;
+  background: var(--md-default-bg-color);
+}
+
+.md-typeset .merit-badge-facts .label {
+  display: block;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--bsa-brown-light);
+  margin-bottom: 0.35rem;
+}
+
+.md-typeset .merit-badge-section {
+  margin: 2rem 0;
+}
+
+.md-typeset .merit-badge-section h2,
+.md-typeset .merit-badge-two-column h2 {
+  border-bottom: 2px solid var(--bsa-khaki-light);
+  padding-bottom: 0.35rem;
+  margin-bottom: 0.75rem;
+}
+
+.md-typeset .merit-badge-list {
+  padding-left: 1.3rem;
+}
+
+.md-typeset .merit-badge-list li {
+  margin-bottom: 0.8rem;
+}
+
+.md-typeset .merit-badge-cards {
+  margin: 2rem 0;
+}
+
+.md-typeset .merit-badge-two-column {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.md-typeset .merit-badge-note {
+  border: 1px dashed var(--bsa-khaki);
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  background: rgba(196, 167, 104, 0.08);
+}
+
+.md-typeset .merit-badge-steps {
+  list-style: none;
+  padding-left: 0;
+  margin: 1rem 0;
+  display: grid;
+  gap: 0.75rem;
+}
+
+.md-typeset .merit-badge-steps li {
+  padding: 0.9rem 1rem;
+  border-left: 4px solid var(--md-accent-fg-color);
+  border-radius: 0 8px 8px 0;
+  background: var(--md-default-bg-color);
+}
+
+.md-typeset .merit-badge-steps strong {
+  color: var(--bsa-brown);
+}
+
+.md-typeset .merit-badge-cooking-warning {
+  margin-top: 1rem;
+  padding: 0.9rem 1rem;
+  border-left: 4px solid var(--bsa-red);
+  border-radius: 0 8px 8px 0;
+  background: rgba(166, 61, 47, 0.08);
+}
+
+.md-typeset .merit-badge-cooking-warning p {
+  margin: 0 0 0.5rem;
+}
+
+.md-typeset .merit-badge-cooking-warning p:last-child {
+  margin-bottom: 0;
+}
+
+.md-typeset .merit-badge-cooking-image-wrap {
+  margin: 1rem 0 1.25rem;
+  text-align: center;
+}
+
+.md-typeset .merit-badge-note ul {
+  margin-bottom: 0;
+}
+
+.md-typeset .merit-badge-note li + li {
+  margin-top: 0.4rem;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .merit-badge-hero h2 {
+  color: var(--bsa-khaki);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .merit-badge-cooking-warning {
+  background: rgba(166, 61, 47, 0.14);
+}
+
+@media screen and (max-width: 800px) {
+  .md-typeset .merit-badge-hero {
+    grid-template-columns: 1fr;
+  }
+
+  .md-typeset .merit-badge-image-wrap {
+    text-align: center;
+  }
+}
+
+[data-md-color-scheme="slate"] .md-typeset .merit-badge-note {
+  background: rgba(196, 167, 104, 0.12);
+}
+
+/* ---- Home page merit badge callout ---- */
+.md-typeset .card.merit-badge-highlight {
+  border: 2px solid var(--bsa-khaki);
+  background: linear-gradient(180deg, rgba(196, 167, 104, 0.18) 0%, var(--md-default-bg-color) 100%);
+  position: relative;
+}
+
+.md-typeset .card.merit-badge-highlight::before {
+  content: "Troop Original";
+  position: absolute;
+  top: 0.9rem;
+  right: 1rem;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #fff;
+  background: var(--md-accent-fg-color);
+}
+
+.md-typeset .card.merit-badge-highlight h3 {
+  padding-right: 6.5rem;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .card.merit-badge-highlight {
+  background: linear-gradient(180deg, rgba(196, 167, 104, 0.14) 0%, var(--md-default-bg-color) 100%);
+}
+
+.md-typeset .merit-badge-card {
+  padding: 0;
+  overflow: hidden;
+}
+
+.md-typeset .merit-badge-card-link {
+  display: block;
+  padding: 1.5rem;
+  color: inherit;
+  text-decoration: none;
+  height: 100%;
+}
+
+.md-typeset .merit-badge-card-link:hover,
+.md-typeset .merit-badge-card-link:focus {
+  text-decoration: none;
+}
+
+.md-typeset .merit-badge-card-link h3 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  color: var(--md-primary-fg-color);
+}
+
+.md-typeset .merit-badge-card-link p {
+  margin-bottom: 1rem;
+}
+
+.md-typeset .merit-badge-card-cta {
+  display: inline-block;
+  font-weight: 700;
+  color: var(--md-accent-fg-color);
+}
+
+.md-typeset .merit-badge-card:hover .merit-badge-card-cta,
+.md-typeset .merit-badge-card:focus-within .merit-badge-card-cta {
+  text-decoration: underline;
+}

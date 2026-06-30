@@ -39,6 +39,12 @@ Follow us on Facebook to learn more about what we do and learn more about us at 
 
 
 
+## Quick Links
+
+[Download Forms](https://github.com/Troop-364/T364-web/tree/main/docs/forms)
+
+[BSA Medical Part A,B,C](https://www.scouting.org/health-and-safety/ahmr/)
+
 ## Scout Oath:
 On my honor I will do my best\
 to do my duty to God and my countryt\
@@ -51,9 +57,3 @@ mentally awake, and morally straight.
 
 ## Scout Law: 
 A Scout is Trustworthy, Loyal, Helpful, Friendly, Courteous, Kind, Obedient, Cheerful, Thrifty, Brave, Clean and Reverent
-
-## Quick Links
-
-[Download Forms](https://github.com/Troop-364/T364-web/tree/main/docs/forms)
-
-[BSA Medical Part A,B,C](https://www.scouting.org/health-and-safety/ahmr/)

@@ -54,6 +54,15 @@ Hiking, camping, fire-building, cooking, knot-tying, navigation, conservation, a
 Troops 364 and 5364 are scout-led. Scouts plan the outings, run the meetings, and lead each other. Adults are here to mentor and support.
 </div>
 
+<div class="card merit-badge-highlight merit-badge-card">
+  <a class="merit-badge-card-link" href="pizza-oven-merit-badge/index.md" aria-label="View the Pizza Oven Merit Badge page">
+    <span class="card-icon">🍕</span>
+    <h3>Pizza Oven Merit Badge</h3>
+    <p>Build a mud oven from clay, sand, and straw or grass, then fire it with wood and cook a real 8-inch pizza from scratch.</p>
+    <span class="merit-badge-card-cta">View the merit badge</span>
+  </a>
+</div>
+
 </div>
 
 ---
