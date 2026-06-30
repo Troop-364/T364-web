@@ -87,6 +87,9 @@ nav:
     - service-projects/index.md
   - Merit Badges:
     - Pizza Oven Merit Badge: pizza-oven-merit-badge/index.md
+  - Cookbook:
+    - cookbook/index.md
+    - Dutch Oven Bread: cookbook/dutch-oven-bread/index.md
   - Resources:
     - resources/index.md
     - Service Project Template: service-projects/TEMPLATE.md

@@ -152,7 +152,6 @@
     <p>This is a simple no-knead dough recipe that works for bread or pizza dough. Feel free to adjust the amount of water, but keep the hydration between 65% and 70%.</p>
 
     <p>Mix the ingredients in a very large container with a wooden spoon until mostly combined. Cover and let rise in a warm environment for at least six hours, but up to 24 hours.</p>
-
     <p>Roll into 5-ounce balls and place in a covered pan for 30 minutes, longer if it is cold outside.</p>
     <p>After the dough balls have risen again, they are ready to use in making pizzas.</p>
     <ul>
@@ -224,9 +223,7 @@
     <p>Clear an area to build the oven. It should be safe for starting a fire. Do not build near dead trees, because roots can catch fire. Use small sticks to build the scaffolding to hold the mud slabs in place while building the oven. They can be burned out after the dome is completed. Do not use large green firewood; it will not burn out. One strategy is to bundle sticks to make the structure. Another is to bend green sticks into hoop shapes by sticking one end into the ground, bending them, and sticking the other end into the ground, similar to a dome tent.</p>
 
     <p>Mixing the mud. Don't overdo it with the water. Use more straw or grass than you expect. The more grass or straw, the better the structure will hold together, but you can overdo it. It must all stick together and still survive being heated up. If there is not enough clay and sand, the straw will burn away.</p>
-    <p>
-       Brick method: form bricks out of the mud and stack them into a dome shape.
-    </p>
+    <p>Brick method: form bricks out of the mud and stack them into a dome shape.</p>
     <p>Slab method: form slabs that can be draped over the scaffolding to form the dome. The slabs must be thick enough to hold the shape after the scaffolding is burned away.</p>
     <p>
       Make a solid base first, then build a dome or tunnel shape that is large enough for
@@ -328,7 +325,7 @@
     <h3>Cook</h3>
     <p>
       Cooking time is usually 1 to 2 minutes. Turn the pizza after about 45 seconds using
-      two clean sticks so it cooks evenly. When the pizza is done, use the two sticks to remove it from the oven and slide it onto a metal tray and remove it from the fire area. Minimize the time the metal pan is in the fire. Use oven mitts or thick leather gloves to handle the metal pan or to work near the fire. Make sure oven mitts do not catch on fire.
+      two clean sticks so it cooks evenly. When the pizza is done, use the two sticks to remove it from the oven and slide it onto a metal tray. Remove it from the fire area right away. Minimize the time the metal pan is in the fire. Use oven mitts or thick leather gloves to handle the metal pan or to work near the fire. Make sure oven mitts do not catch on fire.
     </p>
 
     <ol class="merit-badge-steps">

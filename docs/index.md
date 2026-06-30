@@ -63,6 +63,15 @@ Troops 364 and 5364 are scout-led. Scouts plan the outings, run the meetings, an
   </a>
 </div>
 
+<div class="card merit-badge-card" markdown>
+  <a class="merit-badge-card-link" href="cookbook/" aria-label="View the Cookbook page">
+    <span class="card-icon">📖</span>
+    <h3>Cookbook</h3>
+    <p>A troop-editable collection of camp cooking recipes and notes, written in markdown so anyone can update it easily.</p>
+    <span class="merit-badge-card-cta">View the cookbook</span>
+  </a>
+</div>
+
 </div>
 
 ---
