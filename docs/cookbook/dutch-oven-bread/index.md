@@ -31,7 +31,7 @@
 - If the thermometer probe comes out with wet dough on it, it needs to cook more.
 - Let the bread cool for 10 to 30 minutes before cutting it. If you cut it too early, it will be too wet in the center of each slice, and cutting it will smash the bread together. When it is drier, it will spring back into shape when you cut it.
 - If you have problems with the bottom burning, the coals may not be placed correctly, may be too hot, or may be too many of them. One hack is to put some rice in the bottom of the Dutch oven. I have not tried this, but you can try it.
-- Always use the same amount of flour, but change the amount of water for different bread outcomes. Anywhere between 650 and 700 grams of water works. The more water you use, the harder the dough is to work with.
+- Always use the same amount of flour, but change the amount of water for different bread outcomes. Anywhere between 650 and 700 grams of water works. The more water you use, the harder the dough is to work with, because it is stickier.
 - Don't worry if the flour fully incorporates. It will as the yeast rises.
 
 ## Complete Checklist
