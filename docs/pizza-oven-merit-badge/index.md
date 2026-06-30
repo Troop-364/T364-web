@@ -36,7 +36,7 @@
     <h2>Overview</h2>
     <p>
       To earn this badge, a scout must build a mud oven large enough to cook an 8-inch
-      pizza using sandy-clay and straw or grass for structural support. After the oven is complete, the scout
+      pizza using sandy-clay and straw or grass. After the oven is complete, the scout
       must prepare pizza dough from scratch, heat the oven with firewood, and cook the
       pizza successfully inside the oven they built.
     </p>
