@@ -63,13 +63,25 @@ Troops 364 and 5364 are scout-led. Scouts plan the outings, run the meetings, an
   </a>
 </div>
 
-<div class="card merit-badge-card" markdown>
+<div class="card merit-badge-card">
   <a class="merit-badge-card-link" href="cookbook/" aria-label="View the Cookbook page">
     <span class="card-icon">📖</span>
-    <h3>Cookbook</h3>
+    <h3>Troop Cookbook</h3>
     <p>A troop-editable collection of camp cooking recipes and notes, written in markdown so anyone can update it easily.</p>
     <span class="merit-badge-card-cta">View the cookbook</span>
   </a>
+</div>
+
+<div class="card" markdown>
+<span class="card-icon">📋</span>
+
+### Quick Links
+
+- [Campout Reports](campouts/index.md)
+- [Forms & Resources](resources/index.md)
+- [BSA Medical Forms](https://www.scouting.org/health-and-safety/ahmr/)
+- [Campout Report Template](campouts/TEMPLATE.md)
+
 </div>
 
 </div>
@@ -114,18 +126,6 @@ Stay connected with Troop 364!
 
 - :fontawesome-brands-facebook: [Facebook Group](https://www.facebook.com/groups/troop364vb/)
 - :material-calendar: View our calendar in [Scoutbook Plus](https://advancements.scouting.org/calendar)
-
-</div>
-
-<div class="card" markdown>
-<span class="card-icon">📋</span>
-
-### Quick Links
-
-- [Campout Reports](campouts/index.md)
-- [Forms & Resources](resources/index.md)
-- [BSA Medical Forms](https://www.scouting.org/health-and-safety/ahmr/)
-- [Campout Report Template](campouts/TEMPLATE.md)
 
 </div>
 
