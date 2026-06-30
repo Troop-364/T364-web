@@ -49,28 +49,32 @@
         Explain how a mud oven works, including how the oven stores heat and why natural
         materials like clay, sand, and straw or grass are used.
       </li>
-      <li> Explain what temperatures and times are needed to successfully cook the pizza.
+      <li>Explain what temperatures and times are needed to successfully cook the pizza.</li>
+      <li>
+        Explain what the following are and why they must not be used for cooking or in
+        cooking fires: treated lumber, painted lumber, plywood, engineered wood.
+      </li>
+      <li>
+        Explain why bread rises and why it makes good pizza dough. Explain how one can tell if the dough has been over-risen.
       </li>
       <li>
         Build a mud oven that is large enough to cook an 8-inch pizza.
       </li>
       <li>
-        Use sandy-clay, straw or grass, and some water as the main building materials for the oven.  The materials should be sourced from nature and not purchased.
+        Use sandy-clay, straw or grass, and some water as the main building materials for the oven.
+        The materials should be sourced from nature and not purchased.
       </li>
       <li>
-        Demonstrate safe fire-building practices while preparing the oven for cooking.
+        Make pizza dough from scratch. See recipe below.
       </li>
       <li>
-        Make pizza dough from scratch.
-      </li>
-      <li>
-        Use firewood to heat the oven until it is ready for cooking.
+        Use food-safe firewood to heat the oven until it is ready for cooking.
       </li>
       <li>
         Cook an 8-inch pizza in the oven you built.
       </li>
       <li>
-        Clean the cooking area, fully extinguish the fire, and explain what you would do
+        Write down and share with your merit badge instructor what you would do
         differently to improve the oven or pizza next time.
       </li>
     </ol>
@@ -144,12 +148,18 @@
 
   <div class="merit-badge-section merit-badge-note">
     <h2>Pizza Dough Recipe</h2>
-    <p>This is a simple no-kneed dough recipe that works for bread or pizza dough. Feel free to adjust the amount of water, but keep it between 65% and 70% water</p>
+
+    <p>This is a simple no-knead dough recipe that works for bread or pizza dough. Feel free to adjust the amount of water, but keep the hydration between 65% and 70%.</p>
+
+    <p>Mix the ingredients in a very large container with a wooden spoon until mostly combined. Cover and let rise in a warm environment for at least six hours, but up to 24 hours.</p>
+
+    <p>Roll into 5-ounce balls and place in a covered pan for 30 minutes, longer if it is cold outside.</p>
+    <p>After the dough balls have risen again, they are ready to use in making pizzas.</p>
     <ul>
       <li>1000 grams of flour</li>
       <li>650 to 700 grams of water. (700 grams makes great pizza, but very hard to handle because it is so sticky. Recommend 650 for first time.)</li>
-      <li>1 to 2 tablespoons of yeast. 1 tblspn slower rising time, 2 faster rising time</li>
-      <li>1 to 2 tablespoons of salt. (This is a taste preference. Salt is needed to make the dough rise, but 1 tblspn is enough.)</li>
+      <li>1 to 2 tablespoons of yeast. 1 tablespoon for slower rising time, 2 for faster rising time.</li>
+      <li>1 to 2 tablespoons of salt. (This is a taste preference. Salt is needed to make the dough rise, but 1 tablespoon is enough.)</li>
     </ul>
   </div>
 
@@ -172,9 +182,9 @@
       strength. The standard order from smallest to largest particles is clay, silt, sand,
       then rocks.
     </p>
-    <p>Note: Long Term pizza ovens use 85% silica sand and 15% clay. This can be expensive and not a goal of this merit-badge.  </p>
+    <p>Note: Long-term pizza ovens use 85% silica sand and 15% clay. This can be expensive and is not a goal of this merit badge.</p>
 
-    <p>In soil science, Clay, Silt, and Sand are particle sizes, not a certain type of material. There are many types of clay, silts and sand, but generally speaking, clay is sticky when when and does not burn. Sand does not burn or melt at pizza oven temperatures.</p>
+    <p>In soil science, clay, silt, and sand are particle sizes, not specific material types. There are many kinds of clay, silt, and sand, but generally speaking, clay is sticky when wet and does not burn. Sand does not burn or melt at pizza oven temperatures.</p>
     <table>
       <thead>
         <tr>
@@ -211,13 +221,13 @@
     </p>
 
     <h3>3. Build the base and form</h3>
-    <p>Clear an area to build the oven. It should be safe for staring a fire. Do not build near dead trees, it is possible to catch roots on fire. Use small sticks to build the scaffolding to hold the mud slabs in place while building the oven. They can be burned out after the dome is completed. Do not use large green firewood, it will not burn out. One strategy is to bundle sticks to make the structure, another is to bend green sticks into hoop shapes, by sticking one end into the ground, bending and sticking the other end into the ground, similar to a dome tent. </p>
+    <p>Clear an area to build the oven. It should be safe for starting a fire. Do not build near dead trees, because roots can catch fire. Use small sticks to build the scaffolding to hold the mud slabs in place while building the oven. They can be burned out after the dome is completed. Do not use large green firewood; it will not burn out. One strategy is to bundle sticks to make the structure. Another is to bend green sticks into hoop shapes by sticking one end into the ground, bending them, and sticking the other end into the ground, similar to a dome tent.</p>
 
-    <p>Mixing the mud.  Don't over-do it with the water. Use more straw or grass than you expect. The more grass or straw, the better the structure will hold together, but you can over-do it. It must all stick together and still survive being heated up, if there is not enough clay and sand, the straw will burn away.</p>
+    <p>Mixing the mud. Don't overdo it with the water. Use more straw or grass than you expect. The more grass or straw, the better the structure will hold together, but you can overdo it. It must all stick together and still survive being heated up. If there is not enough clay and sand, the straw will burn away.</p>
     <p>
        Brick method: form bricks out of the mud and stack them into a dome shape.
     </p>
-    <p> Slab method: form slabs that can be draped over the scaffolding to form the dome. The slabs must be thick enough to hold the shape after the scaffolding is burned away.
+    <p>Slab method: form slabs that can be draped over the scaffolding to form the dome. The slabs must be thick enough to hold the shape after the scaffolding is burned away.</p>
     <p>
       Make a solid base first, then build a dome or tunnel shape that is large enough for
       an 8-inch pizza and a peel or flat pan. A wall thickness of about 2 to 3 inches is a
@@ -269,7 +279,7 @@
       pizza in and out without tearing the oven apart.
     </p>
 
-    <h3>6. Fire it carefully</h3>
+    <h3>5. Fire it carefully</h3>
     <p>
       Start with a small fire and increase the heat slowly. A gradual warm-up helps prevent
       cracking. Use dry, seasoned firewood and keep the flame toward the back of the oven so
@@ -318,7 +328,7 @@
     <h3>Cook</h3>
     <p>
       Cooking time is usually 1 to 2 minutes. Turn the pizza after about 45 seconds using
-      two clean sticks so it cooks evenly. When the pizza is done, use the two sticks to remove it from the oven and slide it onto a metal tray and remove from fire area. Minimize the time the metal pan is in the fire. Use oven mits or thick leather gloves to handle the metal pan or to work near the fire. Make sure oven mits do not catch on fire.
+      two clean sticks so it cooks evenly. When the pizza is done, use the two sticks to remove it from the oven and slide it onto a metal tray and remove it from the fire area. Minimize the time the metal pan is in the fire. Use oven mitts or thick leather gloves to handle the metal pan or to work near the fire. Make sure oven mitts do not catch on fire.
     </p>
 
     <ol class="merit-badge-steps">
