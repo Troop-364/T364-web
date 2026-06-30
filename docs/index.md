@@ -55,7 +55,7 @@ Troops 364 and 5364 are scout-led. Scouts plan the outings, run the meetings, an
 </div>
 
 <div class="card merit-badge-highlight merit-badge-card">
-  <a class="merit-badge-card-link" href="pizza-oven-merit-badge/index.md" aria-label="View the Pizza Oven Merit Badge page">
+  <a class="merit-badge-card-link" href="pizza-oven-merit-badge/" aria-label="View the Pizza Oven Merit Badge page">
     <span class="card-icon">🍕</span>
     <h3>Pizza Oven Merit Badge</h3>
     <p>Build a mud oven from clay, sand, and straw or grass, then fire it with wood and cook a real 8-inch pizza from scratch.</p>
