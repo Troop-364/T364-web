@@ -539,3 +539,53 @@
 .md-typeset .merit-badge-card:focus-within .merit-badge-card-cta {
   text-decoration: underline;
 }
+
+/* ---- Dutch Oven Bread calculator ---- */
+.md-typeset .bread-calculator {
+  padding: 1rem;
+  border: 1px solid var(--bsa-khaki-light);
+  border-radius: 8px;
+  background: var(--md-default-bg-color);
+  margin: 1rem 0 1.5rem;
+}
+
+.md-typeset .bread-calculator-launch {
+  margin: 1rem 0 1.5rem;
+}
+
+.md-typeset .bread-calculator-launch summary {
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.md-typeset .bread-calculator label {
+  display: block;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.md-typeset .bread-calculator input {
+  max-width: 12rem;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--bsa-khaki-light);
+  border-radius: 6px;
+  background: var(--md-default-bg-color);
+  color: inherit;
+}
+
+.md-typeset .bread-calculator-output {
+  margin-top: 1rem;
+}
+
+.md-typeset .bread-calculator-output ul {
+  margin-top: 0.5rem;
+}
+
+.md-typeset .bread-calculator-script-link {
+  display: none;
+}
+
+.md-typeset .bread-calculator-note {
+  font-size: 0.9rem;
+  opacity: 0.85;
+}

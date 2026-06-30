@@ -13,6 +13,26 @@
 - 1-2 tablespoons of yeast
 - 1-2 tablespoons of salt
 
+[Jump to calculator](#calculator){ .md-button .md-button--primary }
+
+## Calculator
+
+This calculator assumes a number 12 Dutch oven by default and scales the recipe by loaves.
+The charcoal chart matches the Lodge Cast Iron camp Dutch oven chart.
+
+Select a Dutch oven size below to see the charcoal recommendation change.
+
+<script type="module" src="./bread-calculator.js"></script>
+[bread calculator module](bread-calculator.js){ .bread-calculator-script-link }
+
+<dutch-oven-bread-calculator></dutch-oven-bread-calculator>
+
+<noscript>
+
+The calculator requires JavaScript.
+
+</noscript>
+
 ## Directions
 
 1. Mix the ingredients together in the rising container. Use a wooden spoon to mix for a minute or so.
