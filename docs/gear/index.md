@@ -24,6 +24,15 @@ Just one big list of potential gear to take camping, this is not specific to any
 - hammock rain tarp
 - mosquitoes net
 
+## Safety
+
+- sun screen
+- bug spray for ticks and mosquitos
+- hat
+- water bottle
+- poison ivy soap
+
+
 ## Fire
 
 - first aid kit
@@ -74,3 +83,13 @@ Just one big list of potential gear to take camping, this is not specific to any
 - power strip for AC
 - laser cutter
 
+### Dutch Oven Essentials Checklist
+
+- [ ] Dutch ovens
+- [ ] Dutch oven table or cookie sheet to put the Dutch oven on
+- [ ] Charcoal chimney
+- [ ] Charcoal tongs
+- [ ] Dutch oven lid lifting tool
+- [ ] Matches, fire-starter, or a small camp stove to light the chimney
+- [ ] Charcoal
+- [ ] Cooking mittens or leather cooking gloves
