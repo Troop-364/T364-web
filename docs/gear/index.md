@@ -32,6 +32,8 @@ Just one big list of potential gear to take camping, this is not specific to any
 - water bottle
 - poison ivy soap
 - sun glasses
+- work gloves
+- eye protection for certain activities like splitting wood
 
 
 ## Fire
