@@ -31,6 +31,7 @@ Just one big list of potential gear to take camping, this is not specific to any
 - hat
 - water bottle
 - poison ivy soap
+- sun glasses
 
 
 ## Fire
@@ -74,13 +75,12 @@ Just one big list of potential gear to take camping, this is not specific to any
 - water shoes
 - cloths line
 
-
-
 ## Random
 
 - solar charger
 - radios
 - power strip for AC
+- extension cord
 - laser cutter
 
 ### Dutch Oven Essentials Checklist
@@ -93,3 +93,34 @@ Just one big list of potential gear to take camping, this is not specific to any
 - [ ] Matches, fire-starter, or a small camp stove to light the chimney
 - [ ] Charcoal
 - [ ] Cooking mittens or leather cooking gloves
+
+
+## Summer Camp
+
+- Tarp to go over camp tent if rain is expected
+- Laundry soap and washing bucket - optional luxury
+
+
+## Troop 
+
+- first aid kit
+- hose
+- hatchet
+- bow saw
+- log splitting axe
+- kindle cracker
+- mallet
+- camp tarp and poles and stakes
+- patrol cooking gear
+- ice chest
+- 5 gallon insulated water dispensers
+- water carrying jugs - also used to have water next to fire
+- dutch ovens
+- charcoal chimneys
+- cooking grills
+- cooking tables
+- patrol kitchen patrol washing bins
+- bleach tablets for dishes sanitization
+- lanterns
+- FRS radios
+
