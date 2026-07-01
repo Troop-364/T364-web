@@ -65,11 +65,15 @@ Just one big list of potential gear to take camping, this is not specific to any
 - tooth paste
 - tooth brush
 - shower shoes
+- shaving kit
+- comb or brush
+- wet wipes
 
 ## Hot Weather
  
 - hydration packets 
-- nice wide brimmed hat
+- wide brimmed hat
+- cooling towel
 - loose fitting shirt
 - hip fan - rechargeable
 - tent fan - rechargeable
@@ -112,6 +116,8 @@ Just one big list of potential gear to take camping, this is not specific to any
 - log splitting axe
 - kindle cracker
 - mallet
+- shovel
+- rake
 - camp tarp and poles and stakes
 - patrol cooking gear
 - ice chest
@@ -125,4 +131,5 @@ Just one big list of potential gear to take camping, this is not specific to any
 - bleach tablets for dishes sanitization
 - lanterns
 - FRS radios
+- 
 

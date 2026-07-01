@@ -5,7 +5,7 @@
     <div class="merit-badge-hero-copy">
       <h2>Build it. Fire it. Bake it.</h2>
       <p>
-        The Pizza Oven Merit Badge challenges scouts to build a working mud oven from
+        The Pizza Oven Merit Badge challenges scouts to build a working earthen oven from
         natural materials, prepare dough from scratch, and cook a real wood-fired pizza.
         This badge is unique to our troop and celebrates outdoor cooking, craftsmanship,
         and patience.
@@ -35,7 +35,7 @@
   <div class="merit-badge-section">
     <h2>Overview</h2>
     <p>
-      To earn this badge, a scout must build a mud oven large enough to cook an 8-inch
+      To earn this badge, a scout must build an earthen oven large enough to cook an 8-inch
       pizza using sandy-clay and straw or grass. After the oven is complete, the scout
       must prepare pizza dough from scratch, heat the oven with firewood, and cook the
       pizza successfully inside the oven they built.
@@ -46,7 +46,7 @@
     <h2>Requirements</h2>
     <ol class="merit-badge-list">
       <li>
-        Explain how a mud oven works, including how the oven stores heat and why natural
+        Explain how an earthen oven works, including how the oven stores heat and why natural
         materials like clay, sand, and straw or grass are used.
       </li>
       <li>Explain what temperatures and times are needed to successfully cook the pizza.</li>
@@ -58,7 +58,7 @@
         Explain why bread rises and why it makes good pizza dough. Explain how one can tell if the dough has been over-risen.
       </li>
       <li>
-        Build a mud oven that is large enough to cook an 8-inch pizza.
+        Build an earthen oven that is large enough to cook an 8-inch pizza.
       </li>
       <li>
         Use sandy-clay, straw or grass, and some water as the main building materials for the oven.
@@ -166,8 +166,17 @@
 
   <div class="merit-badge-section merit-badge-note">
     <h2>How to Make the Oven</h2>
+
+    <figure>
+      <img src="earthen_oven_how_to.png">
+    </figure>
+    <p><i>Ignore the recipe in the image. Use what nature provides but do mix in the grass.</i>
+    <br/>
+    <i>Ignore the text to rake out the coals. You want to keep the coals in there.</i>
+     </p>
+    <a href="https://gearjunkie.com/camping/how-to-make-an-easy-earth-oven" target="_blank">Good Video on how to make the oven</a>
     <p>
-      These instructions are for a temporary mud oven that can be used a few times. Adult
+      These instructions are for a temporary earthen oven that can be used a few times. Adult
       supervision is required for building, drying, and firing the oven.
     </p>
 
@@ -179,7 +188,7 @@
 
     <h3>Understanding the Materials</h3>
     <p>
-      Mud ovens work best when the soil has the right mix of particle sizes and binding
+      Earthen ovens work best when the soil has the right mix of particle sizes and binding
       strength. The standard order from smallest to largest particles is clay, silt, sand,
       then rocks.
     </p>
@@ -325,9 +334,14 @@
       <li>it should be ready to build the pizza on and put in the fire.</li>
     </ul>
 
-    <p>
-      
-    </p>
+    <li>
+        <strong>Choose safe wood to build the pizza on.</strong> Make sure the branches and
+        firewood are not poisonous, treated, painted, glued, or otherwise unsafe.
+    </li>
+    <li>Safe options are: 
+        Oak,
+        birch, maple, cherry, plenty of others are safe too, identify the tree then look it up to see if it is safe for cooking.
+      </li>
   </div>
 
   <div class="merit-badge-section merit-badge-note">
@@ -338,16 +352,14 @@
       nearby throughout the entire cook.
     </p>
 
-    <h3>Assemble the Pizza on the Platform</h3>
+    <h3>Assemble the Pizza on the Snowshoe grill</h3>
     <p>
-      Place the flattened dough on the woven square, then add sauce and toppings before it
-      goes into the oven.
+      Place the flattened dough on snowshoe grill, then add sauce and toppings.
     </p>
 
-    <h3>Transfer to the Fire</h3>
+    <h3>Transfer to the Oven/h3>
     <p>
-      Set the square directly onto the hot coals or hottest part of the oven. The stick
-      square will burn away as the pizza cooks.
+      Set the square directly onto the hot coals or hottest part of the oven. The snowshoe grill should burn away as the pizza cooks.
     </p>
 
     <h3>Cook</h3>
@@ -357,11 +369,7 @@
     </p>
 
     <ol class="merit-badge-steps">
-      <li>
-        <strong>Choose safe wood to build the pizza on.</strong> Make sure the sticks and
-        firewood are not poisonous, treated, painted, glued, or otherwise unsafe. Oak,
-        birch, maple, cherry, and similar hardwoods are fine.
-      </li>
+    
       <li>
         <strong>Use oven mitts.</strong> Keep your hands protected when placing, turning, and
         removing the pizza.
