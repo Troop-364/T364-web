@@ -297,6 +297,7 @@
     <figure class="merit-badge-image-wrap merit-badge-cooking-image-wrap">
       <img class="merit-badge-image" src="pizza%20rack%20to%20build%20the%20pizza%20on%20to%20transfer%20to%20the%20fire.png" alt="Pizza rack for building and transferring the pizza" />
     </figure>
+    <p>The image above is not exactly correct. The sticks would be thinner and woven together. Once the crust hardens it is easier to pull out of the oven and onto a tray. </p>
     <p>
       The pizza should be cooked only after the oven has fully heated and the floor has had
       time to absorb and store heat. Use dry, seasoned firewood and keep adult supervision
