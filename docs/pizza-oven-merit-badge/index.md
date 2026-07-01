@@ -110,7 +110,8 @@
       <ul>
         <li>Clay</li>
         <li>Sand</li>
-        <li>Straw or dry grass</li>
+        <li>Straw or grass for the oven</li>
+        <li>grass to lash the snowshoe grill together or use natural untreated hemp twine or cooking twine</li>
         <li>Water</li>
         <li>Firewood</li>
         <li>Pizza peel, flat pan, or safe method for placing pizza in the oven</li>
@@ -134,6 +135,7 @@
       Many different woods are not safe for cooking, so when in doubt, do not use it.
     </p>
     <ul>
+      <li>Do not use synthetic rope to make the snowshoe grill. Use grass or cooking twine.</li>
       <li>Do not build the oven with stones, especially river stones, because trapped moisture can make them explode when heated.</li>
       <li>Use food-safe, untreated wood for firewood and the pizza platform. Good examples include oak, birch, maple, and cherry.</li>
       <li>Do not use treated, painted, stained, glued, or pressure-treated wood.</li>
@@ -293,22 +295,47 @@
   </div>
 
   <div class="merit-badge-section merit-badge-note">
-    <h2>Cooking the Pizza</h2>
+    <h2>Make the Snowshoe Grill</h2>
+    <a href="https://www.popsci.com/survival-cooking-how-to-cook-with-sticks/" target="_blank">How to make a snowshoe grill</a>
+    <p>
+      Before cooking the pizza, build a simple snowshoe-style grill from green sticks. Use grass,  untreated twine, or butchers twine for any lashing needed. The grill should be just big enough and sturdy enough for an 8-inch pizza.
+    </p>
+
     <figure class="merit-badge-image-wrap merit-badge-cooking-image-wrap">
-      <img class="merit-badge-image" src="pizza%20rack%20to%20build%20the%20pizza%20on%20to%20transfer%20to%20the%20fire.png" alt="Pizza rack for building and transferring the pizza" />
+      <img class="merit-badge-image" src="pizza%20rack%20to%20build%20the%20pizza%20on%20to%20transfer%20to%20the%20fire.png" alt="Pizza rack made from sticks for cooking over coals" />
+      
     </figure>
-    <p>The image above is not exactly correct. The sticks would be thinner and woven together. Once the crust hardens it is easier to pull out of the oven and onto a tray. </p>
+    
+    <h3>Issues with the image</h3>
+    <ul>
+      <li>The grill shown in the image is a little bit too big, but gets the idea across.</li>
+      <li>the image shows both ends being lashed, only one end of the snowshoe needs to be lashed</li>
+      <li>The image shows the cross sticks as being lashed, it should show them as woven over the center stick. Alternate one over, the next under. No lashing required.  </li>
+      <li>The image says to use 1/2 inch twigs, I would use even smaller, like 1/4 inch for everything.</li>
+      <li>The graphic says to cook over coals, this is true, but there should be a flame going in the back or sides of the oven to provide infra-red heat to the top of the pizza.</li>
+    </ul>
+
+    
+    <h3>How to make</h3>
+    <ul>
+      <li>Find a small green branch with a Y shape.</li>
+      <li>Bend the ends of the Y into on oval and weave together, it should look like a snowshoe or tennis racket with a handle.</li>
+      <li>Optionally use some grass, vine, or butchers twine to lash the loop together</li>
+      <li>place a straight stick in the middle, and weave in a few other sticks.</li>
+      <li>it should be ready to build the pizza on and put in the fire.</li>
+    </ul>
+
+    <p>
+      
+    </p>
+  </div>
+
+  <div class="merit-badge-section merit-badge-note">
+    <h2>Cooking the Pizza</h2>
     <p>
       The pizza should be cooked only after the oven has fully heated and the floor has had
       time to absorb and store heat. Use dry, seasoned firewood and keep adult supervision
       nearby throughout the entire cook.
-    </p>
-
-    <h3>Build the Pizza Platform</h3>
-    <p>
-      Weave a square platform from green, untreated sticks that is just big enough to hold
-      an 8-inch flattened dough round. Make sure the rack is small enough to fit through
-      the opening of the oven.
     </p>
 
     <h3>Assemble the Pizza on the Platform</h3>
