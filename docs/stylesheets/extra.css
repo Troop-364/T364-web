@@ -132,6 +132,21 @@
   color: var(--md-accent-fg-color);
 }
 
+/* Make inline markdown links in content easier to spot */
+.md-typeset a:not(.md-button):not(.md-nav__link):not(.merit-badge-card-link):not(.bread-calculator-script-link) {
+  color: var(--md-accent-fg-color);
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 0.14em;
+  text-decoration-thickness: 0.11em;
+}
+
+.md-typeset a:not(.md-button):not(.md-nav__link):not(.merit-badge-card-link):not(.bread-calculator-script-link):hover,
+.md-typeset a:not(.md-button):not(.md-nav__link):not(.merit-badge-card-link):not(.bread-calculator-script-link):focus {
+  color: var(--md-primary-fg-color--dark);
+  text-decoration-thickness: 0.14em;
+}
+
 .md-typeset .card .card-link-cta {
   display: inline-block;
   margin-top: 0.75rem;

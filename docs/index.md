@@ -63,7 +63,7 @@ Troops 364 and 5364 are scout-led. Scouts plan the outings, run the meetings, an
 
 Quarterly, the parents and Troop Committee host a Court of Honor to celebrate the Scouts.
 
-<span class="card-link-cta">Open the Court of Honor page</span>
+[Open the Court of Honor page](./court-of-honor/)
 
 </a>
 </div>

@@ -80,54 +80,6 @@
     </ol>
   </div>
 
-  <div class="grid-cards merit-badge-cards">
-    <div class="card">
-      <h3>Build</h3>
-      <p>
-        Shape a sturdy oven body from natural materials and make sure the cooking chamber
-        is large enough for an 8-inch pizza.
-      </p>
-    </div>
-    <div class="card">
-      <h3>Cook</h3>
-      <p>
-        Heat the oven with firewood, manage the coals safely, and learn how timing and
-        temperature affect a wood-fired bake.
-      </p>
-    </div>
-    <div class="card">
-      <h3>Create</h3>
-      <p>
-        Mix dough from scratch and turn simple ingredients into a finished pizza cooked in
-        your own handmade oven.
-      </p>
-    </div>
-  </div>
-
-  <div class="merit-badge-two-column">
-    <div>
-      <h2>Suggested Materials</h2>
-      <ul>
-        <li>Clay</li>
-        <li>Sand</li>
-        <li>Straw or grass for the oven</li>
-        <li>grass to lash the snowshoe grill together or use natural untreated hemp twine or cooking twine</li>
-        <li>Water</li>
-        <li>Firewood</li>
-        <li>Pizza peel, flat pan, or safe method for placing pizza in the oven</li>
-      </ul>
-    </div>
-    <div>
-      <h2>Safety Notes</h2>
-      <ul>
-        <li>Use proper fire safety and adult supervision.</li>
-        <li>Handle hot surfaces and coals carefully.</li>
-        <li>Keep water or other fire-control tools nearby.</li>
-        <li>Choose a safe outdoor area for oven building and cooking.</li>
-      </ul>
-    </div>
-  </div>
-
   <div class="merit-badge-section merit-badge-note">
     <h2>Safety Checklist</h2>
     <p>
@@ -148,23 +100,7 @@
     </ul>
   </div>
 
-  <div class="merit-badge-section merit-badge-note">
-    <h2>Pizza Dough Recipe</h2>
-
-    <p>This is a simple no-knead dough recipe that works for bread or pizza dough. Feel free to adjust the amount of water, but keep the hydration between 65% and 70%.</p>
-
-    <p>Mix the ingredients in a very large container with a wooden spoon until mostly combined. Cover and let rise in a warm environment for at least six hours, but up to 24 hours.</p>
-    <p>Roll into 5-ounce balls and place in a covered pan for 30 minutes, longer if it is cold outside.</p>
-    <p>After the dough balls have risen again, they are ready to use in making pizzas.</p>
-    <ul>
-      <li>1000 grams of flour</li>
-      <li>650 to 700 grams of water. (700 grams makes great pizza, but very hard to handle because it is so sticky. Recommend 650 for first time.)</li>
-      <li>1 to 2 tablespoons of yeast. 1 tablespoon for slower rising time, 2 for faster rising time.</li>
-      <li>1 to 2 tablespoons of salt. (This is a taste preference. Salt is needed to make the dough rise, but 1 tablespoon is enough.)</li>
-    </ul>
-  </div>
-
-  <div class="merit-badge-section merit-badge-note">
+<div class="merit-badge-section merit-badge-note">
     <h2>How to Make the Oven</h2>
 
     <figure>
@@ -303,7 +239,7 @@
     </ul>
   </div>
 
-  <div class="merit-badge-section merit-badge-note">
+<div class="merit-badge-section merit-badge-note">
     <h2>Make the Snowshoe Grill</h2>
     <a href="https://www.popsci.com/survival-cooking-how-to-cook-with-sticks/" target="_blank">How to make a snowshoe grill</a>
     <p>
@@ -343,6 +279,28 @@
         birch, maple, cherry, plenty of others are safe too, identify the tree then look it up to see if it is safe for cooking.
       </li>
   </div>
+
+  
+
+  <div class="merit-badge-section merit-badge-note">
+    <h2>Pizza Dough Recipe</h2>
+
+    <p>This is a simple no-knead dough recipe that works for bread or pizza dough. Feel free to adjust the amount of water, but keep the hydration between 65% and 70%.</p>
+
+    <p>Mix the ingredients in a very large container with a wooden spoon until mostly combined. Cover and let rise in a warm environment for at least six hours, but up to 24 hours.</p>
+    <p>Roll into 5-ounce balls and place in a covered pan for 30 minutes, longer if it is cold outside.</p>
+    <p>After the dough balls have risen again, they are ready to use in making pizzas.</p>
+    <ul>
+      <li>1000 grams of flour</li>
+      <li>650 to 700 grams of water. (700 grams makes great pizza, but very hard to handle because it is so sticky. Recommend 650 for first time.)</li>
+      <li>1 to 2 tablespoons of yeast. 1 tablespoon for slower rising time, 2 for faster rising time.</li>
+      <li>1 to 2 tablespoons of salt. (This is a taste preference. Salt is needed to make the dough rise, but 1 tablespoon is enough.)</li>
+    </ul>
+  </div>
+
+  
+
+  
 
   <div class="merit-badge-section merit-badge-note">
     <h2>Cooking the Pizza</h2>

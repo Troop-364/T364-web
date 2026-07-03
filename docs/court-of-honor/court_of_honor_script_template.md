@@ -11,6 +11,8 @@ hide:
 
 Use this template for the Court of Honor. Replace the role placeholders inline with the current names when preparing the ceremony.
 
+GitHub source: [open the markdown version](https://github.com/Troop-364/T364-web/blob/main/docs/court-of-honor/court_of_honor_script_template.md)
+
 Work with the Committee Chair, we often need to make some adjustments to the outline.
 
 As the Master of Ceremonies (MC), you are responsible for planning the presentation items listed in this script. Including ensuring a group of scouts is prepared to execute the flag ceremony. Delegation is encouraged.
