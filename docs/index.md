@@ -54,6 +54,20 @@ Hiking, camping, fire-building, cooking, knot-tying, navigation, conservation, a
 Troops 364 and 5364 are scout-led. Scouts plan the outings, run the meetings, and lead each other. Adults are here to mentor and support.
 </div>
 
+<div class="card" markdown>
+<a href="./court-of-honor/">
+<span class="card-icon">🎖️</span>
+
+### Quarterly Court of Honor
+
+
+Quarterly, the parents and Troop Committee host a Court of Honor to celebrate the Scouts.
+
+<span class="card-link-cta">Open the Court of Honor page</span>
+
+</a>
+</div>
+
 <div class="card merit-badge-highlight merit-badge-card">
   <a class="merit-badge-card-link" href="pizza-oven-merit-badge/" aria-label="View the Pizza Oven Merit Badge page">
     <span class="card-icon">🍕</span>

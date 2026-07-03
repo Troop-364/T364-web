@@ -123,6 +123,24 @@
   color: var(--md-primary-fg-color);
 }
 
+.md-typeset .card a {
+  color: var(--md-primary-fg-color);
+}
+
+.md-typeset .card a:hover,
+.md-typeset .card a:focus {
+  color: var(--md-accent-fg-color);
+}
+
+.md-typeset .card .card-link-cta {
+  display: inline-block;
+  margin-top: 0.75rem;
+  font-weight: 700;
+  color: var(--md-accent-fg-color);
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+}
+
 .md-typeset .card .card-icon {
   font-size: 2rem;
   margin-bottom: 0.5rem;

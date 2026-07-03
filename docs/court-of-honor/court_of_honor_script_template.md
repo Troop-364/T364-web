@@ -6,6 +6,9 @@ hide:
 
 # T364 & T5364 Court of Honor Script
 
+## Instructions
+
+
 Use this template for the Court of Honor. Replace the role placeholders inline with the current names when preparing the ceremony.
 
 Work with the Committee Chair, we often need to make some adjustments to the outline.
@@ -13,6 +16,9 @@ Work with the Committee Chair, we often need to make some adjustments to the out
 As the Master of Ceremonies (MC), you are responsible for planning the presentation items listed in this script. Including ensuring a group of scouts is prepared to execute the flag ceremony. Delegation is encouraged.
 
 If you have any questions, reach out to the Committee Chair.
+
+--- 
+
 
 ## 1. Welcome
 
