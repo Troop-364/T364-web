@@ -36,7 +36,7 @@
     <h2>Overview</h2>
     <p>
       To earn this badge, a scout must build an earthen oven large enough to cook an 8-inch
-      pizza using sandy-clay and straw or grass. After the oven is complete, the scout
+      pizza using earthen materials (sandy-clay) and straw (or grass.) After the oven is complete, the scout
       must prepare pizza dough from scratch, heat the oven with firewood, and cook the
       pizza successfully inside the oven they built.
     </p>
@@ -52,7 +52,7 @@
       <li>Explain what temperatures and times are needed to successfully cook the pizza.</li>
       <li>
         Explain what the following are and why they must not be used for cooking or in
-        cooking fires: treated lumber, painted lumber, plywood, engineered wood.
+        cooking fires: treated lumber, painted lumber, plywood, engineered wood, unknown wood.
       </li>
       <li>
         Explain why bread rises and why it makes good pizza dough. Explain how one can tell if the dough has been over-risen.
@@ -75,7 +75,7 @@
       </li>
       <li>
         Write down and share with your merit badge instructor what you would do
-        differently to improve the oven or pizza next time.
+        differently if you had to do it over again.
       </li>
     </ol>
   </div>
@@ -89,13 +89,12 @@
     <ul>
       <li>Do not use synthetic rope to make the snowshoe grill. Use grass or cooking twine.</li>
       <li>Do not build the oven with stones, especially river stones, because trapped moisture can make them explode when heated.</li>
-      <li>Use food-safe, untreated wood for firewood and the pizza platform. Good examples include oak, birch, maple, and cherry.</li>
+      <li>Use food-safe, untreated wood for firewood and the snowshoe grill. Safe to burn/use examples include oak, hickory, birch, maple, cherry, poplar, pecan.</li>
       <li>Do not use treated, painted, stained, glued, or pressure-treated wood.</li>
+      <li>Avoid using fruit wood from old orchards. It tends to have toxic levels of heavy metals like lead and arsenic from 20th century pesticides.</li>
       <li>Do not use unknown scrap wood, driftwood, plywood, particleboard, or lumber with chemicals on it.</li>
-      <li>Keep the oven away from dead trees, dry roots, brush, and anything else that could catch fire.</li>
+      <li>Keep the oven away from dead trees. Roots can catch on fire and create underground fires that can lead to forrest fires long after you have left.</li>
       <li>Use adult supervision, fire tools, and water or another fire-control method.
-      </li>
-      <li>Let the oven and coals cool completely before cleaning or moving anything.
       </li>
     </ul>
   </div>
@@ -326,22 +325,10 @@
       two clean sticks so it cooks evenly. When the pizza is done, use the two sticks to remove it from the oven and slide it onto a metal tray. Remove it from the fire area right away. Minimize the time the metal pan is in the fire. Use oven mitts or thick leather gloves to handle the metal pan or to work near the fire. Make sure oven mitts do not catch on fire.
     </p>
 
-    <ol class="merit-badge-steps">
-    
-      <li>
+    <div class="merit-badge-cooking-warning">
+     <p>
         <strong>Use oven mitts.</strong> Keep your hands protected when placing, turning, and
         removing the pizza.
-      </li>
-    </ol>
-
-    <div class="merit-badge-cooking-warning">
-      <p>
-        <strong>Note:</strong> Do not use store-bought aluminum pizza screens in these ovens.
-        They get too hot and can melt.
-      </p>
-      <p>
-        Keep fire tools, water, or another fire-control method nearby, and watch for hot
-        spots, smoke, and cracks in the oven.
       </p>
     </div>
   </div>

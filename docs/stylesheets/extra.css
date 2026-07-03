@@ -474,6 +474,10 @@
   text-align: center;
 }
 
+.md-typeset .merit-badge-cooking-image-wrap .merit-badge-image {
+  max-width: min(100%, 720px);
+}
+
 .md-typeset .merit-badge-note ul {
   margin-bottom: 0;
 }
