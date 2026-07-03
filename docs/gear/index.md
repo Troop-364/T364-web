@@ -22,12 +22,12 @@ Just one big list of potential gear to take camping, this is not specific to any
 - hammock
 - hammock under-quilt
 - hammock rain tarp
-- mosquitoes net
+- mosquito net
 
 ## Safety
 
 - sun screen
-- bug spray for ticks and mosquitos
+- bug spray non-aerosol, for ticks and mosquitos
 - hat
 - water bottle
 - poison ivy soap
@@ -48,7 +48,8 @@ Just one big list of potential gear to take camping, this is not specific to any
 - pocket knife
 - hatchet
 - axe
-- pickaroon
+- pickaroon - for moving log rounds around
+- 
 
 ## Eating
 
@@ -88,6 +89,7 @@ Just one big list of potential gear to take camping, this is not specific to any
 - power strip for AC
 - extension cord
 - laser cutter
+- para-cord
 
 ### Dutch Oven Essentials Checklist
 
@@ -99,6 +101,8 @@ Just one big list of potential gear to take camping, this is not specific to any
 - [ ] Matches, fire-starter, or a small camp stove to light the chimney
 - [ ] Charcoal
 - [ ] Cooking mittens or leather cooking gloves
+- [ ] Cooking thermometer
+- [ ] Infrared laser thermometer (optional)
 
 
 ## Summer Camp
@@ -107,7 +111,7 @@ Just one big list of potential gear to take camping, this is not specific to any
 - Laundry soap and washing bucket - optional luxury
 
 
-## Troop 
+## Troop
 
 - first aid kit
 - hose
