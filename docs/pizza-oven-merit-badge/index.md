@@ -315,7 +315,7 @@
       Place the flattened dough on snowshoe grill, then add sauce and toppings.
     </p>
 
-    <h3>Transfer to the Oven/h3>
+    <h3>Transfer to the Oven</h3>
     <p>
       Set the square directly onto the hot coals or hottest part of the oven. The snowshoe grill should burn away as the pizza cooks.
     </p>
