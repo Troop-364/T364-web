@@ -35,7 +35,7 @@ Our troop stays active year-round with monthly campouts and weekly meetings. Her
 
 - :fontawesome-brands-facebook: [Troop 364 Facebook Group](https://www.facebook.com/groups/troop364vb/)
 - :material-calendar: View our calendar in [Scoutbook Plus](https://advancements.scouting.org/calendar)
-- :material-email: Contact us through our Facebook page
+- :material-email: [Join our Troop](https://beascout.scouting.org/?utm_source=google&utm_medium=paid&utm_campaign=alwayson&utm_term=search&utm_content=brand&gad_source=1&gad_campaignid=23532089962&gbraid=0AAAAA9_EZnoJb0NtJmVAm2aK942dTUEeQ&gclid=CjwKCAjwu53SBhAhEiwAJzSLNpP-MRws6sv2JZV4f4hQizI0ED5kvDT-stxOqlFol3x_94-tVyeBMRoC-6oQAvD_BwE)
 
 ## Troop 5364
 

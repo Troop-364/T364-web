@@ -114,7 +114,7 @@ Just one big list of potential gear to take camping, this is not specific to any
 ## Troop
 
 - first aid kit
-- hose
+- hose for water spigot
 - hatchet
 - bow saw
 - log splitting axe
@@ -135,5 +135,3 @@ Just one big list of potential gear to take camping, this is not specific to any
 - bleach tablets for dishes sanitization
 - lanterns
 - FRS radios
-- 
-
