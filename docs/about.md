@@ -39,4 +39,4 @@ Our troop stays active year-round with monthly campouts and weekly meetings. Her
 
 ## Troop 5364
 
-Troop **5364** is our linked troop. Both troops share resources, campouts, and the same meeting location. Together, we make scouting even better!
+Troop **5364** is our linked girls troop.
