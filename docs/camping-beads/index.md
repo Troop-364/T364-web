@@ -16,6 +16,8 @@ Camping beads are a long tradition in scouting. They are a physical representati
 
 We added a twist to the standard beads. We cut leather tags with a laser cutter and attach the beads to the leather.
 
+We get the leather as inexpensive leather scraps on Amazon.
+
 ## Template
 
 The main idea is two layers. 
