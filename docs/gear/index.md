@@ -135,3 +135,10 @@ Just one big list of potential gear to take camping, this is not specific to any
 - bleach tablets for dishes sanitization
 - lanterns
 - FRS radios
+
+
+## Scoutmaster or Assistant Scoutmaster Camping Checklist
+
+- [ ] enough seats for scouts / drive plan
+- [ ] did scouts take their medicine
+

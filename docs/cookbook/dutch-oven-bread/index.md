@@ -3,7 +3,7 @@
 ## At a Glance
 
 - Yield: 1 dutch oven round loaf or two bread tins
-- Rise time: at least 4 hours, ideally 12 hours
+- Rise time: at least 4 hours, ideally 8 hours
 - Bake time: about 35 minutes
 
 ## Ingredients
@@ -12,6 +12,8 @@
 - 670 grams of water
 - 1-2 tablespoons of yeast
 - 1-2 tablespoons of salt
+
+- set out butter early so it warms up and spreads nicely
 
 [Jump to calculator](#calculator){ .md-button .md-button--primary }
 
