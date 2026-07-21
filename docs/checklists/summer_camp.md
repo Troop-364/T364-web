@@ -1,5 +1,7 @@
 # Summer Camp Checklists
 
+We generally leave for summer camp on Sunday morning.
+
 
 ## For Parents
 
@@ -17,7 +19,7 @@
 - [ ] charcoal
 - [ ] emergency tarps for camp tents
 - [ ] coffee
-
+- [ ] ice chest
 
 ## Scoutmaster and Assistant Scoutmasters
 

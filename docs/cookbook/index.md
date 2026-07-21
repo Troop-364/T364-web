@@ -12,6 +12,6 @@ gear-friendly meals. It is written in Markdown so scouts and adults can edit and
 
 ## Recipes
 
-- [Dutch Oven Bread](dutch-oven-bread/): A simple bread recipe for cooking in a Dutch oven during campouts.
+- [Dutch Oven Bread](dutch-oven-bread/index.md): A simple bread recipe for cooking in a Dutch oven during campouts.
 
 To add a new recipe, copy the bullet above and add a new recipe folder with its own `index.md`.
