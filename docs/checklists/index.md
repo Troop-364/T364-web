@@ -2,7 +2,7 @@
 
 Just one big list of potential gear to take camping, this is not specific to any campout. Don't go out and buy all this. This is just one big long list.
 
-
+See the [Summer Camp Checklist](summer_camp.md)
 
 ## Basic Sleeping Gear
 
