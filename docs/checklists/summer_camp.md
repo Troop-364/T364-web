@@ -43,6 +43,6 @@
 ## Scouts
 
 - [ ] plenty of socks, especially if wet weather is expected. Three extra pairs + one pair per day
-- [ ] Shower Shoes
-- [ ] Soap
+- [ ] shower shoes
+- [ ] soap
 - [ ] towel
