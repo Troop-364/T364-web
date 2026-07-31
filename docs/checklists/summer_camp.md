@@ -17,6 +17,7 @@ We generally leave for summer camp on Sunday morning.
 - [ ] Camp Stove - for heating water and cooking one evening meal
 - [ ] dutch ovens and gear
 - [ ] charcoal
+- [ ] propane
 - [ ] emergency tarps for camp tents
 - [ ] coffee
 - [ ] ice chest
