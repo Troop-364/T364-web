@@ -33,14 +33,18 @@ Thank you,
 [Committee Chair Name]
 Committee Chair Troop 364, Bayside District, Tidewater Council  
 
-Details about the process
+## Details about the process
+
 An Eagle Scout letter of reference will not be shown to the candidate, nor will it be shared with anyone outside of the Eagle Scout Board of review.
+
 Your letter of reference should be based on your personal interactions with the Eagle Scout candidate, and ideally, contain examples of what they’ve done.
+
 Your letter should relate to how the candidate carries out the points of the Scout Oath and Scout Law.scout
 A copy of the Scout Oath and Scout Law https://www.scouting.org/about/faq/question10/
 
-Sample Outline
-Your relationship with the Eagle candidate.
-Things to Eagle candidate has done to deserve a positive reference
-Ways that the Eagle Scout candidate lives by the principles of the Scout Oath and Scout Law.
-Examples of growth that you’ve observed from the Eagle candidate over time.
+## Sample Outline
+
+- Your relationship with the Eagle candidate.
+- Things to Eagle candidate has done to deserve a positive reference
+- Ways that the Eagle Scout candidate lives by the principles of the Scout Oath and Scout Law.
+- Examples of growth that you’ve observed from the Eagle candidate over time.
