@@ -18,6 +18,10 @@ All scouts and adults need current medical forms to participate in outings.
 - [Troop 5364 Campout Reports](../campouts/5364/index.md) — Troop 5364 campout reports will live here
 - [Campout Submission Instructions](../campouts/instructions.md) — GitHub and AI-friendly submission help
 
+## Forms
+
+- [Eagle Letter of Recommendation Request](../forms/EagleLetterOfRecommendationRequest.md) — Letter/email template for Eagle Scout recommendation requests
+
 ## Useful Links
 
 | Resource | Link |
