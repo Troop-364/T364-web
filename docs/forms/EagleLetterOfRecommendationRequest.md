@@ -1,10 +1,15 @@
 ## Variables
 
 [recipients name]
+
 [Scouts Name]
+
 [Committee Chair Name]
+
 [due date]
+
 [Committee Chair Address]
+
 [Committee Chair Phone]
 
 
