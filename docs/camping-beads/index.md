@@ -1,4 +1,4 @@
-# Camping Beads
+# Camping Beads Troops 364 and 5364
 
 Camping beads are a long tradition in scouting. They are a physical representation of the number of days a scout camped and the weather of the campout.
 
