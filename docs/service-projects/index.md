@@ -17,3 +17,7 @@ Each service project report follows a standard template so scouts can record the
 - **Hours** - Time spent by the troop
 - **Lessons learned** - Notes for future projects
 - **Photos** - Optional pictures from the project
+
+## Project Reports
+
+- [Hemric Island Firewood Shelter](../hemirc-firewood-shelter/index.md) - Scouts built a shelter to keep firewood dry at Hemric Island Scout Reservation.
