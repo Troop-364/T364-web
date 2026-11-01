@@ -20,4 +20,4 @@ Each service project report follows a standard template so scouts can record the
 
 ## Project Reports
 
-- [Hemric Island Firewood Shelter](../hemirc-firewood-shelter/index.md) - Scouts built a shelter to keep firewood dry at Hemric Island Scout Reservation.
+- [Hemric Island Firewood Shelter](../hemric-firewood-shelter/index.md) - Scouts built a shelter to keep firewood dry at Hemric Island Scout Reservation.
