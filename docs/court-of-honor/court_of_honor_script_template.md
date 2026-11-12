@@ -17,6 +17,8 @@ Work with the Committee Chair, we often need to make some adjustments to the out
 
 As the Master of Ceremonies (MC), you are responsible for planning the presentation items listed in this script. Including ensuring a group of scouts is prepared to execute the flag ceremony. Delegation is encouraged.
 
+For dinner, Scouts may be called by patrol instead of rank. If using this option, the MC should print a separate patrol list from Scoutbook.
+
 If you have any questions, reach out to the Committee Chair.
 
 --- 
@@ -78,24 +80,8 @@ If you have any questions, reach out to the Committee Chair.
 
 - [Enter Scout Name Speaking]
 - “Now, it is time to enjoy the delicious meals generously provided by our families tonight.”
-- Guests go first, then parents and younger siblings, then scouts.
+- Guests, parents, and younger siblings go first. Then call Scouts by rank: Eagle, Life, Star, First Class, Second Class, Tenderfoot, and any remaining Scouts. Alternatively, call them by patrol.
 - Control the chaos.
-- [Enter Scout Name Speaking]
-- Family members, guests, and siblings may line up at this time.
-- [Enter Scout Name Speaking]
-- All Eagle Scouts may now go enjoy dinner.
-- [Enter Scout Name Speaking]
-- All Life Scouts may now go enjoy dinner.
-- [Enter Scout Name Speaking]
-- All Star Scouts may now go enjoy dinner.
-- [Enter Scout Name Speaking]
-- All First Class Scouts may now go enjoy dinner.
-- [Enter Scout Name Speaking]
-- All Second Class Scouts may now go enjoy dinner.
-- [Enter Scout Name Speaking]
-- All Tenderfoot Scouts may now go enjoy dinner.
-- [Enter Scout Name Speaking]
-- Any remaining Scouts may now go enjoy dinner.
 
 ## 10. Troop Business
 
